@@ -1,0 +1,20 @@
+html,
+body {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+#map {
+    height: 100%;
+}
+#tooltip {
+    pointer-events: none;
+    font-family: sans-serif;
+    position: absolute;
+    z-index: 9;
+    font-size: 12px;
+    padding: 8px;
+    background: #000;
+    color: #fff;
+}

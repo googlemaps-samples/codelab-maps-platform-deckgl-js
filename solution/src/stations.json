@@ -1,0 +1,5624 @@
+[
+  {
+    "longitude": "-73.98068914",
+    "latitude": "40.69839895",
+    "name": "Nassau St & Navy St",
+    "capacity": "58"
+  },
+  {
+    "longitude": "-73.99931783",
+    "latitude": "40.73935542",
+    "name": "W 15 St & 7 Ave",
+    "capacity": "77"
+  },
+  {
+    "longitude": "-73.97100056",
+    "latitude": "40.70531194",
+    "name": "Railroad Ave & Kay Ave",
+    "capacity": "12"
+  },
+  {
+    "longitude": "-73.98205027",
+    "latitude": "40.73587678",
+    "name": "E 20 St & 2 Ave",
+    "capacity": "56"
+  },
+  {
+    "longitude": "-73.97632328",
+    "latitude": "40.68382604",
+    "name": "Atlantic Ave & Fort Greene Pl",
+    "capacity": "62"
+  },
+  {
+    "longitude": "-73.98142006",
+    "latitude": "40.72740794",
+    "name": "E 10 St & Avenue A",
+    "capacity": "80"
+  },
+  {
+    "longitude": "-73.91054",
+    "latitude": "40.70461",
+    "name": "Menahan St & Seneca Ave",
+    "capacity": "16"
+  },
+  {
+    "longitude": "-74.004730358719826",
+    "latitude": "40.724308321602166",
+    "name": "6 Ave & Broome St",
+    "capacity": "48"
+  },
+  {
+    "longitude": "-73.98368779",
+    "latitude": "40.72217444",
+    "name": "E 2 St & Avenue B",
+    "capacity": "58"
+  },
+  {
+    "longitude": "-73.98753523",
+    "latitude": "40.75172632",
+    "name": "Broadway & W 37 St",
+    "capacity": "57"
+  },
+  {
+    "longitude": "-74.00197139",
+    "latitude": "40.7454973",
+    "name": "9 Ave & W 22 St",
+    "capacity": "61"
+  },
+  {
+    "longitude": "-74.00366443",
+    "latitude": "40.74317449",
+    "name": "9 Ave & W 18 St",
+    "capacity": "60"
+  },
+  {
+    "longitude": "-73.98683077",
+    "latitude": "40.7451677",
+    "name": "5 Ave & E 29 St",
+    "capacity": "56"
+  },
+  {
+    "longitude": "-73.98765428",
+    "latitude": "40.75097711",
+    "name": "Broadway & W 36 St",
+    "capacity": "78"
+  },
+  {
+    "longitude": "-73.98192338",
+    "latitude": "40.7652654",
+    "name": "Broadway & W 56 St",
+    "capacity": "65"
+  },
+  {
+    "longitude": "-73.99093085",
+    "latitude": "40.75019995",
+    "name": "W 33 St & 7 Ave",
+    "capacity": "68"
+  },
+  {
+    "longitude": "-73.97121214",
+    "latitude": "40.744219",
+    "name": "FDR Drive & E 35 St",
+    "capacity": "79"
+  },
+  {
+    "longitude": "-73.97498696",
+    "latitude": "40.75510267",
+    "name": "E 47 St & Park Ave",
+    "capacity": "65"
+  },
+  {
+    "longitude": "-73.9845272898674",
+    "latitude": "40.76068327096592",
+    "name": "Broadway & W 49 St",
+    "capacity": "70"
+  },
+  {
+    "longitude": "-73.98268129",
+    "latitude": "40.76344058",
+    "name": "Broadway & W 53 St",
+    "capacity": "57"
+  },
+  {
+    "longitude": "-73.9544353965357",
+    "latitude": "40.706842031013252",
+    "name": "Division Ave & Hooper St",
+    "capacity": "61"
+  },
+  {
+    "longitude": "-73.9646",
+    "latitude": "40.763954",
+    "name": "E 63 St & 3 Ave",
+    "capacity": "57"
+  },
+  {
+    "longitude": "-73.9900262",
+    "latitude": "40.75640548",
+    "name": "W 41 St & 8 Ave",
+    "capacity": "71"
+  },
+  {
+    "longitude": "-73.95818491",
+    "latitude": "40.76500525",
+    "name": "1 Ave & E 68 St",
+    "capacity": "58"
+  },
+  {
+    "longitude": "-74.00165855884552",
+    "latitude": "40.724946723594158",
+    "name": "W Broadway & Spring St",
+    "capacity": "44"
+  },
+  {
+    "longitude": "-74.00681753",
+    "latitude": "40.74334935",
+    "name": "W 16 St & The High Line",
+    "capacity": "60"
+  },
+  {
+    "longitude": "-74.00566443",
+    "latitude": "40.72243797",
+    "name": "6 Ave & Canal St",
+    "capacity": "48"
+  },
+  {
+    "longitude": "-74.00026394",
+    "latitude": "40.73224119",
+    "name": "Washington Pl & 6 Ave",
+    "capacity": "60"
+  },
+  {
+    "longitude": "-73.98329859",
+    "latitude": "40.71850211",
+    "name": "Rivington St & Ridge St",
+    "capacity": "61"
+  },
+  {
+    "longitude": "-74.00004031",
+    "latitude": "40.74345335",
+    "name": "W 20 St & 8 Ave",
+    "capacity": "72"
+  },
+  {
+    "longitude": "-73.977112",
+    "latitude": "40.7867947",
+    "name": "W 84 St & Broadway",
+    "capacity": "63"
+  },
+  {
+    "longitude": "-73.977706",
+    "latitude": "40.751873",
+    "name": "Pershing Square North",
+    "capacity": "69"
+  },
+  {
+    "longitude": "-73.97791",
+    "latitude": "40.751581",
+    "name": "Pershing Square South",
+    "capacity": "69"
+  },
+  {
+    "longitude": "-73.988038",
+    "latitude": "40.770513",
+    "name": "W 59 St & 10 Ave",
+    "capacity": "78"
+  },
+  {
+    "longitude": "-74.045571684837341",
+    "latitude": "40.725289107811321",
+    "name": "Jersey & 6th St",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.066610932350159",
+    "latitude": "40.714358368704268",
+    "name": "Communipaw & Berry Lane",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.038525521755219",
+    "latitude": "40.7124188237569",
+    "name": "Morris Canal",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.071261882781982",
+    "latitude": "40.719282200707021",
+    "name": "Astor Place",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.05099",
+    "latitude": "40.71942",
+    "name": "Montgomery St",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.0335519",
+    "latitude": "40.7141454",
+    "name": "Paulus Hook",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.045952558517442",
+    "latitude": "40.723331586464361",
+    "name": "Jersey & 3rd",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.071455001831055",
+    "latitude": "40.722103786686034",
+    "name": "Bergen Ave",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.062858521938324",
+    "latitude": "40.71346382669195",
+    "name": "Lafayette Park",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.050388932228088",
+    "latitude": "40.726011729646252",
+    "name": "Brunswick & 6th",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.038914442062378",
+    "latitude": "40.718355198232139",
+    "name": "Columbus Drive",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.0641943",
+    "latitude": "40.7236589",
+    "name": "Baldwin at Montgomery",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.0572714805603",
+    "latitude": "40.74590996631558",
+    "name": "Leonard Gordon Park",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.0321082",
+    "latitude": "40.7287448",
+    "name": "Newport Pkwy",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-74.048790335655212",
+    "latitude": "40.725685483629007",
+    "name": "Monmouth and 6th",
+    "capacity": "14"
+  },
+  {
+    "longitude": "-73.9286078",
+    "latitude": "40.7703743",
+    "name": "30 Ave & 21 St",
+    "capacity": "15"
+  },
+  {
+    "longitude": "-73.90311",
+    "latitude": "40.69517",
+    "name": "Norman St & Wyckoff Ave",
+    "capacity": "15"
+  },
+  {
+    "longitude": "-73.9007",
+    "latitude": "40.6988",
+    "name": "Stephen St & Seneca Ave",
+    "capacity": "15"
+  },
+  {
+    "longitude": "-73.98178024",
+    "latitude": "40.71926081",
+    "name": "Pitt St & Stanton St",
+    "capacity": "15"
+  },
+  {
+    "longitude": "-73.99344559",
+    "latitude": "40.69760127",
+    "name": "Clark St & Henry St",
+    "capacity": "15"
+  },
+  {
+    "longitude": "-73.9538746",
+    "latitude": "40.6630619",
+    "name": "Rogers Ave & Sterling St",
+    "capacity": "17"
+  },
+  {
+    "longitude": "-73.91458",
+    "latitude": "40.68989",
+    "name": "Jefferson Ave & Evergreen Ave",
+    "capacity": "17"
+  },
+  {
+    "longitude": "-73.90742",
+    "latitude": "40.70068",
+    "name": "Madison St & Cypress Ave",
+    "capacity": "17"
+  },
+  {
+    "longitude": "-73.907856",
+    "latitude": "40.709697",
+    "name": "Greene Ave & Grandview Ave",
+    "capacity": "17"
+  },
+  {
+    "longitude": "-73.91945",
+    "latitude": "40.70636",
+    "name": "Suydam St & St. Nicholas Ave",
+    "capacity": "17"
+  },
+  {
+    "longitude": "-73.92587",
+    "latitude": "40.70869",
+    "name": "Stewart Ave & Johnson Ave",
+    "capacity": "17"
+  },
+  {
+    "longitude": "-73.91497",
+    "latitude": "40.70863",
+    "name": "Onderdonk Ave & Dekalb Ave",
+    "capacity": "17"
+  },
+  {
+    "longitude": "-73.91116",
+    "latitude": "40.70998",
+    "name": "Stanhope St & Fairview Ave",
+    "capacity": "17"
+  },
+  {
+    "longitude": "-73.93039",
+    "latitude": "40.70112",
+    "name": "Central Ave & Melrose St",
+    "capacity": "17"
+  },
+  {
+    "longitude": "-73.94485918",
+    "latitude": "40.7169811",
+    "name": "Graham Ave & Withers St",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.9946848154068",
+    "latitude": "40.7505853470215",
+    "name": "8 Ave & W 31 St",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.037683308124542",
+    "latitude": "40.715177677320291",
+    "name": "Grand St",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.91693",
+    "latitude": "40.69122",
+    "name": "Madison St & Evergreen Ave",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.96304",
+    "latitude": "40.68488",
+    "name": "Cambridge Pl & Gates Ave",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.051788633",
+    "latitude": "40.742677141",
+    "name": "Pershing Field",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.91605",
+    "latitude": "40.69296",
+    "name": "Central Ave & Woodbine St",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.0836394",
+    "latitude": "40.7182113",
+    "name": "Union St",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.042884111404419",
+    "latitude": "40.721650724879986",
+    "name": "Manila & 1st",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.0789",
+    "latitude": "40.71113",
+    "name": "Jackson Square",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.066921",
+    "latitude": "40.737711",
+    "name": "Dey St",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.04996782541275",
+    "latitude": "40.721630142638354",
+    "name": "Dixon Mills",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.9222427",
+    "latitude": "40.760339",
+    "name": "35 St & Broadway",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.071060717105865",
+    "latitude": "40.727551467300117",
+    "name": "Glenwood Ave",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.94051",
+    "latitude": "40.71773",
+    "name": "Withers St & Kingsland Ave",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.0439909",
+    "latitude": "40.7443187",
+    "name": "Riverview Park",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.91566",
+    "latitude": "40.69714",
+    "name": "Linden St & Knickerbocker Ave",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.040443301200867",
+    "latitude": "40.748715945380226",
+    "name": "Heights Elevator",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.0337589",
+    "latitude": "40.7272235",
+    "name": "Newport PATH",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.94844",
+    "latitude": "40.72084",
+    "name": "Manhattan Av & Leonard St",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.9452416",
+    "latitude": "40.69128258",
+    "name": "Kosciuszko St & Tompkins Ave",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.0595030784607",
+    "latitude": "40.734961020009514",
+    "name": "5 Corners Library",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.078405946493149",
+    "latitude": "40.7246050998869",
+    "name": "Lincoln Park",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.98302136",
+    "latitude": "40.6853761",
+    "name": "Pacific St & Nevins St",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.071959257125854",
+    "latitude": "40.725726137425568",
+    "name": "Fairmount Ave",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.90925",
+    "latitude": "40.68458",
+    "name": "Moffat St & Bushwick",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.0354826",
+    "latitude": "40.7242941",
+    "name": "Washington St",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-74.0625",
+    "latitude": "40.73367",
+    "name": "Journal Square",
+    "capacity": "18"
+  },
+  {
+    "longitude": "-73.94976519",
+    "latitude": "40.70538077",
+    "name": "Boerum St & Broadway",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-74.00860912",
+    "latitude": "40.6812117",
+    "name": "Commerce St & Van Brunt St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9411265",
+    "latitude": "40.7614376",
+    "name": "36 Ave & 10 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.930562",
+    "latitude": "40.76108",
+    "name": "Crescent St & 34 Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9286471",
+    "latitude": "40.7633589",
+    "name": "Crescent St & Broadway",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9574686",
+    "latitude": "40.6642406",
+    "name": "Sullivan Pl & Bedford Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9322662",
+    "latitude": "40.7682",
+    "name": "31 Ave & 14 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9605563879013",
+    "latitude": "40.666439306870814",
+    "name": "Montgomery St & Franklin Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.95381995",
+    "latitude": "40.69331716",
+    "name": "Willoughby Ave & Walworth St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.944694",
+    "latitude": "40.686203",
+    "name": "Monroe St & Tompkins Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9342",
+    "latitude": "40.77485",
+    "name": "27 Ave & 3 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.97628939",
+    "latitude": "40.71782143",
+    "name": "Stanton St & Mangin St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.939877",
+    "latitude": "40.6933982",
+    "name": "Pulaski St & Marcus Garvey Blvd",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-74.011169",
+    "latitude": "40.679043",
+    "name": "Pioneer St & Van Brunt St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-74.00785041",
+    "latitude": "40.6794327",
+    "name": "Richards St & Delavan St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9347774",
+    "latitude": "40.7668",
+    "name": "Broadway & 12 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9588",
+    "latitude": "40.6679411",
+    "name": "Carroll St & Franklin Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9569115",
+    "latitude": "40.6627059",
+    "name": "Sterling St & Bedford Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.979827",
+    "latitude": "40.699569",
+    "name": "Sands St Gate",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-74.015665",
+    "latitude": "40.677236",
+    "name": "Coffey St & Conover St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.993612",
+    "latitude": "40.671907",
+    "name": "10 St & 2 Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.93098",
+    "latitude": "40.69757",
+    "name": "Willoughby Ave & Myrtle Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.96563307",
+    "latitude": "40.68650065",
+    "name": "Washington Ave & Greene Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9298911",
+    "latitude": "40.6794268",
+    "name": "Fulton St & Utica Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.94708417",
+    "latitude": "40.69957608",
+    "name": "Tompkins Ave & Hopkins St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9362726",
+    "latitude": "40.7601853",
+    "name": "21 St & 36 Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.90824",
+    "latitude": "40.693",
+    "name": "Knickerbocker Ave & Halsey St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.90271",
+    "latitude": "40.69812",
+    "name": "Cypress Ave & George St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.94626915",
+    "latitude": "40.69425403",
+    "name": "Willoughby Ave & Tompkins Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9364848",
+    "latitude": "40.7638753",
+    "name": "34 Ave & 13 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.90737",
+    "latitude": "40.70413",
+    "name": "Onderdonk Ave & Gates Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.97803415",
+    "latitude": "40.69608941",
+    "name": "Park Ave & St Edwards St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-74.00324957",
+    "latitude": "40.6763744",
+    "name": "Henry St & W 9 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.990790247917175",
+    "latitude": "40.681990442707026",
+    "name": "Degraw St & Hoyt St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9476791024208",
+    "latitude": "40.6803560840434",
+    "name": "Verona Pl & Fulton St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9246145",
+    "latitude": "40.7713615",
+    "name": "Newtown Ave & 23 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.957461789250374",
+    "latitude": "40.690648070829432",
+    "name": "DeKalb Ave & Franklin Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.90663",
+    "latitude": "40.69467",
+    "name": "Irving Ave & Halsey St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.93367",
+    "latitude": "40.75473",
+    "name": "38 Ave & 29 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.95881081",
+    "latitude": "40.6845683",
+    "name": "Monroe St & Classon Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.942061",
+    "latitude": "40.6894932",
+    "name": "Greene Ave & Throop Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.92997",
+    "latitude": "40.702997",
+    "name": "George St & Wilson Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.90632",
+    "latitude": "40.70694",
+    "name": "Fairview Ave & Linden St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9391141",
+    "latitude": "40.7627442",
+    "name": "11 St & 35 Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9142678",
+    "latitude": "40.7595701",
+    "name": "Newton Rd & 44 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.95928168",
+    "latitude": "40.68676793",
+    "name": "Lexington Ave & Classon Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.98476437",
+    "latitude": "40.69766564",
+    "name": "Concord St & Bridge St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.918544",
+    "latitude": "40.774591",
+    "name": "24 Ave & 26 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9120938",
+    "latitude": "40.7701477",
+    "name": "37 St & 24 Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9145645",
+    "latitude": "40.7787185",
+    "name": "Crescent St & Ditmars Blvd",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.910651206970215",
+    "latitude": "40.76408932350688",
+    "name": "28 Ave & 44 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.941764831542969",
+    "latitude": "40.7437524099784",
+    "name": "47 Ave & Skillman Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.934903",
+    "latitude": "40.6814598",
+    "name": "Lewis Ave & Decatur St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.952029",
+    "latitude": "40.7160751",
+    "name": "Union Ave & Jackson St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.945133",
+    "latitude": "40.75742",
+    "name": "40 Ave & 9 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9309134",
+    "latitude": "40.7739825",
+    "name": "27 Ave & 9 St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.97129668",
+    "latitude": "40.69573398",
+    "name": "Clermont Ave & Park Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.94977",
+    "latitude": "40.68402",
+    "name": "Putnam Ave & Nostrand Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9491033554077",
+    "latitude": "40.713352262228753",
+    "name": "Devoe St & Lorimer St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.92535",
+    "latitude": "40.70538",
+    "name": "Irving Ave & Jefferson St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.939991",
+    "latitude": "40.752474",
+    "name": "24 St & 41 Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.9391224",
+    "latitude": "40.7576314",
+    "name": "21 St & 38 Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.94546",
+    "latitude": "40.72158",
+    "name": "Engert Ave & McGuinness Blvd",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.91292",
+    "latitude": "40.70577",
+    "name": "Harman St & Seneca Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.93894",
+    "latitude": "40.71323",
+    "name": "Powers St & Olive St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.90674",
+    "latitude": "40.6972",
+    "name": "Hancock St & Wyckoff Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.938037",
+    "latitude": "40.682601",
+    "name": "Marcus Garvey Blvd & Macon St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.93515",
+    "latitude": "40.713811",
+    "name": "Devoe St & Morgan Ave",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-74.00494695",
+    "latitude": "40.6725058",
+    "name": "Henry St & Bay St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.91092",
+    "latitude": "40.70793",
+    "name": "Woodward Ave & Harman St",
+    "capacity": "19"
+  },
+  {
+    "longitude": "-73.95238108",
+    "latitude": "40.69527008",
+    "name": "Nostrand Ave & Myrtle Ave",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.95161",
+    "latitude": "40.73124",
+    "name": "Kent St & McGuinness Blvd",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.959606885910034",
+    "latitude": "40.743366080270214",
+    "name": "Center Blvd & 51 Ave",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.92793",
+    "latitude": "40.71401",
+    "name": "Metropolitan Ave & Stewart Ave",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.92976",
+    "latitude": "40.70539",
+    "name": "Knickerbocker Ave & Thames St",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.95414",
+    "latitude": "40.72795",
+    "name": "Lorimer St & Calyer St",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.91564",
+    "latitude": "40.68565",
+    "name": "Halsey St & Broadway",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.91422",
+    "latitude": "40.70113",
+    "name": "Menahan St & Wyckoff Ave",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.95204",
+    "latitude": "40.73396",
+    "name": "Green St & McGuinness Blvd",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.935877",
+    "latitude": "40.697481",
+    "name": "Melrose St & Broadway",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.984844",
+    "latitude": "40.713126",
+    "name": "Madison St & Montgomery St",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.93641",
+    "latitude": "40.70076",
+    "name": "Bushwick Ave & Forrest St",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.9096",
+    "latitude": "40.70553",
+    "name": "Menahan St & Onderdonk Ave",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.90408",
+    "latitude": "40.70408",
+    "name": "Madison St & Woodward Ave",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.92851",
+    "latitude": "40.70686",
+    "name": "Harrison Pl & Porter Ave",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-73.9127",
+    "latitude": "40.698",
+    "name": "Irving Ave & Palmetto St",
+    "capacity": "20"
+  },
+  {
+    "longitude": "-74.047726625",
+    "latitude": "40.71848892",
+    "name": "Van Vorst Park",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-74.00647134",
+    "latitude": "40.6769993",
+    "name": "Columbia St & W 9 St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.91873",
+    "latitude": "40.71246",
+    "name": "Flushing Ave & Woodward Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-74.01275056",
+    "latitude": "40.6773429",
+    "name": "Van Brunt St & Wolcott St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.98432695",
+    "latitude": "40.6802133",
+    "name": "Douglass St & 3 Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.955637216568",
+    "latitude": "40.677592069373759",
+    "name": "Dean St & Franklin Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-74.0075572",
+    "latitude": "40.6747055",
+    "name": "Columbia St & Lorraine St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-74.0100698",
+    "latitude": "40.6753274",
+    "name": "Wolcott St & Dwight St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.99364123",
+    "latitude": "40.6777287",
+    "name": "3 St & Hoyt St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9373554",
+    "latitude": "40.7671863",
+    "name": "Vernon Blvd & 10 St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-74.0016256",
+    "latitude": "40.68763155",
+    "name": "Columbia St & Kane St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9311847",
+    "latitude": "40.7974772",
+    "name": "Pleasant Ave & E 120 St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.93936",
+    "latitude": "40.705517",
+    "name": "Bushwick Ave & McKibbin St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-74.00242364",
+    "latitude": "40.6859296",
+    "name": "Columbia St & Degraw St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.91181",
+    "latitude": "40.69055",
+    "name": "Central Ave & Weirfield St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.944118",
+    "latitude": "40.6823687",
+    "name": "Halsey St & Tompkins Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.98470567",
+    "latitude": "40.7746671",
+    "name": "Amsterdam Ave & W 66 St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.98895053",
+    "latitude": "40.666287",
+    "name": "14 St & 5 Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9265474",
+    "latitude": "40.7658346",
+    "name": "31 Ave & Crescent St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.930819",
+    "latitude": "40.7659",
+    "name": "21 St & 31 Dr",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9351",
+    "latitude": "40.704508",
+    "name": "White St & Moore St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.94111",
+    "latitude": "40.6851532",
+    "name": "Putnam Ave & Throop Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-74.0087952464819",
+    "latitude": "40.672672434109479",
+    "name": "Sigourney St & Columbia St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9077436",
+    "latitude": "40.7713937",
+    "name": "Steinway St & 23 Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-74.00194698",
+    "latitude": "40.67434",
+    "name": "Clinton St & Centre St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9262231",
+    "latitude": "40.7569332",
+    "name": "34 St & 35 Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9240312",
+    "latitude": "40.7647",
+    "name": "31 Ave & 30 St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9460927",
+    "latitude": "40.748",
+    "name": "44 Dr & 21 St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9179",
+    "latitude": "40.70108",
+    "name": "Irving Ave & Harman St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9153175",
+    "latitude": "40.776165",
+    "name": "23 Ave & 27 St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9564947",
+    "latitude": "40.6741806",
+    "name": "Park Pl & Franklin Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.94371094",
+    "latitude": "40.69622937",
+    "name": "Throop Ave & Myrtle Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.948852",
+    "latitude": "40.74252",
+    "name": "49 Ave & 21 St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9566",
+    "latitude": "40.7423737",
+    "name": "5 St & 51 Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.95608",
+    "latitude": "40.70934",
+    "name": "S 4 St & Rodney St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.923706",
+    "latitude": "40.774645",
+    "name": "21 St & Hoyt Ave S",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9587903",
+    "latitude": "40.6791944",
+    "name": "Pacific St & Classon Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.97988067",
+    "latitude": "40.6686627",
+    "name": "6 St & 7 Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.94008",
+    "latitude": "40.709897",
+    "name": "Bushwick Ave & Stagg St",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-73.9333",
+    "latitude": "40.702831",
+    "name": "Central Ave & Flushing Ave",
+    "capacity": "21"
+  },
+  {
+    "longitude": "-74.0506564",
+    "latitude": "40.7241765",
+    "name": "Brunswick St",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-74.046304543",
+    "latitude": "40.72152515",
+    "name": "Newark Ave",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.9532423",
+    "latitude": "40.802535",
+    "name": "Adam Clayton Powell Blvd & W 115 St",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-74.03805095",
+    "latitude": "40.7211236",
+    "name": "Warren St",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.91227",
+    "latitude": "40.68858",
+    "name": "Halsey St & Evergreen Ave",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-74.043845",
+    "latitude": "40.7177325",
+    "name": "City Hall",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-74.0557013",
+    "latitude": "40.7112423",
+    "name": "Liberty Light Rail",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.917775",
+    "latitude": "40.703545",
+    "name": "Wyckoff Av & Stanhope St",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-74.0364857",
+    "latitude": "40.7127742",
+    "name": "Essex Light Rail",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.93948",
+    "latitude": "40.71882",
+    "name": "Frost St & Debevoise Ave",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-74.04105",
+    "latitude": "40.71649",
+    "name": "York St",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.984275",
+    "latitude": "40.683426",
+    "name": "Wyckoff St & Nevins St",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.91321",
+    "latitude": "40.68652",
+    "name": "Eldert St & Bushwick Ave",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.90625",
+    "latitude": "40.70183",
+    "name": "Madison St & Seneca Ave",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-74.0496379137039",
+    "latitude": "40.716539780991937",
+    "name": "JC Medical Center",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-74.067622125148773",
+    "latitude": "40.7253399253558",
+    "name": "McGinley Square",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.948212862014771",
+    "latitude": "40.716380319735613",
+    "name": "Jackson St & Leonard St",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.9643412291",
+    "latitude": "40.7969347",
+    "name": "Columbus Ave & W 103 St",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.94308",
+    "latitude": "40.72325",
+    "name": "Driggs Ave & N Henry St",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-74.050443636",
+    "latitude": "40.734785818",
+    "name": "Christ Hospital",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.97141",
+    "latitude": "40.69985",
+    "name": "Dock 72 Way & Market St",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.90974",
+    "latitude": "40.69385",
+    "name": "Knickerbocker Ave & Hancock St",
+    "capacity": "22"
+  },
+  {
+    "longitude": "-73.98261206",
+    "latitude": "40.71622644",
+    "name": "Bialystoker Pl & Delancey St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-74.0094613",
+    "latitude": "40.6777748",
+    "name": "Pioneer St & Richards St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.9354504",
+    "latitude": "40.7692475",
+    "name": "Vernon Blvd & 31 Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.91516",
+    "latitude": "40.69905",
+    "name": "Myrtle Ave & Grove St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.96986848",
+    "latitude": "40.69794",
+    "name": "Clinton Ave & Flushing Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.94954908",
+    "latitude": "40.69539817",
+    "name": "Myrtle Ave & Marcy Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.927631",
+    "latitude": "40.7767",
+    "name": "Astoria Park S & Shore Blvd",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.94407279",
+    "latitude": "40.70510918",
+    "name": "McKibbin St & Manhattan Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.99917254",
+    "latitude": "40.6847514",
+    "name": "Henry St & Degraw St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.96408963",
+    "latitude": "40.70853074",
+    "name": "Bedford Ave & S 9 St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.99203074",
+    "latitude": "40.6902375",
+    "name": "Court St & State St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.941606",
+    "latitude": "40.795508",
+    "name": "3 Ave & E 112 St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.89795",
+    "latitude": "40.69922",
+    "name": "Forest Ave & Summerfield St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.97355569",
+    "latitude": "40.69580705",
+    "name": "Carlton Ave & Park Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.935775",
+    "latitude": "40.686312",
+    "name": "Lewis Ave & Madison St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.9333349",
+    "latitude": "40.7949879",
+    "name": "Pleasant Ave & E 116 St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.92153",
+    "latitude": "40.705614",
+    "name": "Willoughby Ave & Wyckoff Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.97703874",
+    "latitude": "40.69327018",
+    "name": "Myrtle Ave & St Edwards St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.96751037",
+    "latitude": "40.69610226",
+    "name": "Washington Ave & Park Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.987654745578766",
+    "latitude": "40.679097997216843",
+    "name": "Union St & Nevins St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.937258720397935",
+    "latitude": "40.741283093559929",
+    "name": "48 Ave & 30 Pl",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.923044",
+    "latitude": "40.699304",
+    "name": "Stockholm St & Wilson Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.97493121",
+    "latitude": "40.68981035",
+    "name": "DeKalb Ave & S Portland Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.982578",
+    "latitude": "40.70224",
+    "name": "Front St & Gold St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.99383324",
+    "latitude": "40.686371",
+    "name": "Warren St & Court St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.99785768",
+    "latitude": "40.6746957",
+    "name": "Smith St & 9 St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.90369",
+    "latitude": "40.6786",
+    "name": "Van Sinderen Ave & Truxton St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.96885458",
+    "latitude": "40.68940747",
+    "name": "DeKalb Ave & Vanderbilt Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.99400398",
+    "latitude": "40.71076228",
+    "name": "Market St & Cherry St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.9787282",
+    "latitude": "40.6740886",
+    "name": "Carroll St & 6 Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-74.011955559253693",
+    "latitude": "40.673635513415043",
+    "name": "Dwight St & Van Dyke St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.93734",
+    "latitude": "40.71019",
+    "name": "Waterbury St & Stagg St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.95133465",
+    "latitude": "40.69072549",
+    "name": "Kosciuszko St & Nostrand Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.97846879",
+    "latitude": "40.6765304",
+    "name": "Berkeley Pl & 6 Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.98901629",
+    "latitude": "40.6843549",
+    "name": "Hoyt St & Warren St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.9788007736206",
+    "latitude": "40.747573958954796",
+    "name": "Lexington Ave & E 36 St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.99612349",
+    "latitude": "40.69089272",
+    "name": "Henry St & Atlantic Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.95995020866394",
+    "latitude": "40.731814017209658",
+    "name": "India St & West St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.9479119",
+    "latitude": "40.7519071",
+    "name": "11 St & 43 Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.9621128676",
+    "latitude": "40.7997568",
+    "name": "W 107 St & Columbus Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.972628",
+    "latitude": "40.761573",
+    "name": "E 56 St & Madison Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.94977234",
+    "latitude": "40.74708586",
+    "name": "45 Rd & 11 St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.9225403",
+    "latitude": "40.7774552",
+    "name": "19 St & 24 Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.9342862",
+    "latitude": "40.7628138",
+    "name": "34 Ave & 21 St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.9249574",
+    "latitude": "40.768692",
+    "name": "Crescent St & 30 Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.939182",
+    "latitude": "40.80756",
+    "name": "E 128 St & Madison Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.95380904",
+    "latitude": "40.6851443",
+    "name": "Monroe St & Bedford Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-74.011295735836029",
+    "latitude": "40.7277140777778",
+    "name": "Pier 40 - Hudson River Park",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.98208968",
+    "latitude": "40.6704836",
+    "name": "5 St & 6 Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.937956094741821",
+    "latitude": "40.753599202005596",
+    "name": "40 Ave & Crescent St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.92836",
+    "latitude": "40.704425",
+    "name": "Knickerbocker Ave & George St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.97793172",
+    "latitude": "40.72082834",
+    "name": "Avenue D & E 3 St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-74.00965965",
+    "latitude": "40.72405549",
+    "name": "Watts St & Greenwich St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.947915",
+    "latitude": "40.6900815",
+    "name": "Marcy Ave & Lafayette Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.94594845",
+    "latitude": "40.75052534",
+    "name": "21 St & 43 Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.99548059",
+    "latitude": "40.70037867",
+    "name": "Columbia Heights & Cranberry St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.97178913",
+    "latitude": "40.69308257",
+    "name": "Adelphi St & Myrtle Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.93756926",
+    "latitude": "40.69681963",
+    "name": "Myrtle Ave & Lewis Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.98199886",
+    "latitude": "40.6662078",
+    "name": "10 St & 7 Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.920827",
+    "latitude": "40.763154",
+    "name": "31 Ave & 34 St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.979504182934761",
+    "latitude": "40.727464206923919",
+    "name": "E 11 St & Avenue B",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.93372",
+    "latitude": "40.710681",
+    "name": "Stagg St & Morgan Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.99379025",
+    "latitude": "40.72743423",
+    "name": "Great Jones St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-74.00771779",
+    "latitude": "40.72185379",
+    "name": "Laight St & Hudson St",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.950916",
+    "latitude": "40.6883337",
+    "name": "Greene Ave & Nostrand Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.96579",
+    "latitude": "40.6769694",
+    "name": "Prospect Pl & Underhill Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.9022",
+    "latitude": "40.69969",
+    "name": "Centre St & Seneca Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.96968902",
+    "latitude": "40.68764484",
+    "name": "Clermont Ave & Lafayette Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.93581",
+    "latitude": "40.707174",
+    "name": "White St & Johnson Ave",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.92834",
+    "latitude": "40.700003",
+    "name": "Central Ave & Starr Street",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.941342",
+    "latitude": "40.698617",
+    "name": "Park Ave & Marcus Garvey Blvd",
+    "capacity": "23"
+  },
+  {
+    "longitude": "-73.990460336208344",
+    "latitude": "40.771496710544412",
+    "name": "11 Ave & W 59 St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.94644578",
+    "latitude": "40.70583339",
+    "name": "Leonard St & Boerum St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.98700053",
+    "latitude": "40.6686273",
+    "name": "10 St & 5 Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.99337909",
+    "latitude": "40.69239502",
+    "name": "Clinton St & Joralemon St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-74.01677685",
+    "latitude": "40.70569254",
+    "name": "Little West St & 1 Pl",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.94782145",
+    "latitude": "40.7961535",
+    "name": "E 110 St & Madison Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.9739",
+    "latitude": "40.7921",
+    "name": "W 92 St & Broadway",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.989830017089844",
+    "latitude": "40.672602981501257",
+    "name": "7 St & 3 Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.986842",
+    "latitude": "40.702461",
+    "name": "Front St & Jay St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.93705428",
+    "latitude": "40.69237074",
+    "name": "Lewis Ave & Kosciuszko St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-74.014726281166077",
+    "latitude": "40.6758329439129",
+    "name": "Van Brunt St & Van Dyke St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.9432083",
+    "latitude": "40.79329668",
+    "name": "E 109 St & 3 Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.94142771",
+    "latitude": "40.67890679",
+    "name": "Kingston Ave & Herkimer St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.92617",
+    "latitude": "40.692",
+    "name": "Van Buren St & Broadway",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.90448",
+    "latitude": "40.69081",
+    "name": "Knickerbocker Ave & Cooper St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.93504",
+    "latitude": "40.79747",
+    "name": "E 118 St & 1 Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.90798",
+    "latitude": "40.6882",
+    "name": "Central Ave & Decatur St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.947059512138367",
+    "latitude": "40.7103685423523",
+    "name": "Leonard St & Maujer St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.9500479759",
+    "latitude": "40.6809833854",
+    "name": "Macon St & Nostrand Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.98396846",
+    "latitude": "40.663779",
+    "name": "14 St & 7 Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.952918",
+    "latitude": "40.676368",
+    "name": "Bedford Ave & Bergen St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.93323",
+    "latitude": "40.71429",
+    "name": "Metropolitan Ave & Vandervoort Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.955736",
+    "latitude": "40.724055",
+    "name": "N 15 St & Wythe Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.9737299",
+    "latitude": "40.6917823",
+    "name": "Washington Park",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.9554162",
+    "latitude": "40.6691783",
+    "name": "Union St & Bedford Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.99293911",
+    "latitude": "40.71406667",
+    "name": "Pike St & E Broadway",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.993440270423889",
+    "latitude": "40.695356933202248",
+    "name": "Pierrepont St & Monroe Pl",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.93856",
+    "latitude": "40.715353",
+    "name": "Sharon St & Olive St",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.919911",
+    "latitude": "40.704876",
+    "name": "Hart St & Wyckoff Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.90904",
+    "latitude": "40.69811",
+    "name": "Putnam Ave & Wyckoff Ave",
+    "capacity": "24"
+  },
+  {
+    "longitude": "-73.96590294",
+    "latitude": "40.71285887",
+    "name": "S 4 St & Wythe Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.99667444",
+    "latitude": "40.76341379",
+    "name": "W 46 St & 11 Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.99869893",
+    "latitude": "40.6763947",
+    "name": "Court St & Nelson St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.96264403",
+    "latitude": "40.71260486",
+    "name": "S 3 St & Bedford Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.99333264",
+    "latitude": "40.6685455",
+    "name": "3 Ave & 14 St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.94945003",
+    "latitude": "40.7934337",
+    "name": "E 106 St & Madison Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9423",
+    "latitude": "40.797911",
+    "name": "E 115 St & Lexington Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9430681",
+    "latitude": "40.8107922",
+    "name": "Lenox Ave & W 130 St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.970775604248047",
+    "latitude": "40.697950315695444",
+    "name": "Flushing Ave & Vanderbilt Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.95739",
+    "latitude": "40.71469",
+    "name": "Roebling St & N 4 St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.93956237",
+    "latitude": "40.7892529",
+    "name": "E 106 St & 1 Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-74.015756",
+    "latitude": "40.711512",
+    "name": "South End Ave & Liberty St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9904394",
+    "latitude": "40.668603",
+    "name": "12 St & 4 Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9242751",
+    "latitude": "40.7580583",
+    "name": "35 St & 34 Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.99440329",
+    "latitude": "40.6849894",
+    "name": "Butler St & Court St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.94164802",
+    "latitude": "40.7869946",
+    "name": "E 102 St & 1 Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.92524",
+    "latitude": "40.69356",
+    "name": "Bushwick Ave & Harman St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9557689392",
+    "latitude": "40.680342423",
+    "name": "Lefferts Pl & Franklin Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.916142",
+    "latitude": "40.7729",
+    "name": "24 Ave & 29 St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9383",
+    "latitude": "40.7923272",
+    "name": "1 Ave & E 110 St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.99990419",
+    "latitude": "40.6828003",
+    "name": "President St & Henry St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9166368",
+    "latitude": "40.7577284",
+    "name": "43 St & Broadway",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-74.0104554",
+    "latitude": "40.71748752",
+    "name": "Duane St & Greenwich St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.941275",
+    "latitude": "40.7485",
+    "name": "27 St & Hunter St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.95141312",
+    "latitude": "40.71167351",
+    "name": "Hope St & Union Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.91337",
+    "latitude": "40.69943",
+    "name": "Myrtle Ave & Linden St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.99037292",
+    "latitude": "40.6786115",
+    "name": "Carroll St & Bond St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-74.00014502",
+    "latitude": "40.6783563",
+    "name": "Clinton St & 4 Place",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.90876293182373",
+    "latitude": "40.701573408737914",
+    "name": "Cypress Ave & Palmetto St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.99785267",
+    "latitude": "40.6831164",
+    "name": "Clinton St & Union St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.97519523",
+    "latitude": "40.6793307",
+    "name": "Prospect Pl & 6 Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.92302",
+    "latitude": "40.69676",
+    "name": "Central Ave & Himrod St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.91966",
+    "latitude": "40.68822",
+    "name": "Broadway & Madison St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9321455",
+    "latitude": "40.7596276",
+    "name": "Crescent St & 35 Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.954131",
+    "latitude": "40.672695",
+    "name": "Sterling Pl & Bedford Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9136695",
+    "latitude": "40.7656251",
+    "name": "Steinway St & 28 Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.90245",
+    "latitude": "40.70555",
+    "name": "Madison St & Forest Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.95577801",
+    "latitude": "40.7727966",
+    "name": "E 78 St & 2 Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.96699104",
+    "latitude": "40.804213",
+    "name": "Cathedral Pkwy & Broadway",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9349",
+    "latitude": "40.8006721",
+    "name": "2 Ave & E 122 St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.94173",
+    "latitude": "40.72577",
+    "name": "Kingsland Ave & Nassau Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.911666423082352",
+    "latitude": "40.68319988172761",
+    "name": "Rockaway Ave & Bainbridge St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-74.01020234",
+    "latitude": "40.71291224",
+    "name": "Barclay St & Church St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.97484126",
+    "latitude": "40.6711978",
+    "name": "Garfield Pl & 8 Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9786517",
+    "latitude": "40.7829391",
+    "name": "Amsterdam Ave & W 79 St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.976376056671143",
+    "latitude": "40.66514681533792",
+    "name": "Prospect Park West & 8 St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.95206",
+    "latitude": "40.78813",
+    "name": "E 98 St & Park Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.96845281124115",
+    "latitude": "40.768008893059474",
+    "name": "E 66 St & Madison Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.93318",
+    "latitude": "40.70106",
+    "name": "Evergreen Ave & Noll St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.92807",
+    "latitude": "40.69671",
+    "name": "Cedar St & Evergreen Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.92157",
+    "latitude": "40.70907",
+    "name": "Jefferson St & Cypress Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.97324283",
+    "latitude": "40.6776147",
+    "name": "7 Ave & Park Pl",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9196",
+    "latitude": "40.69543",
+    "name": "Menahan St & Central Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.99599099",
+    "latitude": "40.6787242",
+    "name": "Smith St & 3 St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.94223690032959",
+    "latitude": "40.719078911795641",
+    "name": "Richardson St & N Henry St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.962408",
+    "latitude": "40.678045",
+    "name": "Grand Ave & Bergen St",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.93637",
+    "latitude": "40.716657",
+    "name": "Morgan Ave & Maspeth Ave",
+    "capacity": "25"
+  },
+  {
+    "longitude": "-73.9362541",
+    "latitude": "40.7945663",
+    "name": "E 114 St & 1 Ave",
+    "capacity": "26"
+  },
+  {
+    "longitude": "-73.939855098724365",
+    "latitude": "40.763154819103733",
+    "name": "35 Ave & 10 St",
+    "capacity": "26"
+  },
+  {
+    "longitude": "-74.044247311",
+    "latitude": "40.727595966",
+    "name": "Hamilton Park",
+    "capacity": "26"
+  },
+  {
+    "longitude": "-74.042817056179047",
+    "latitude": "40.714584035358932",
+    "name": "Marin Light Rail",
+    "capacity": "26"
+  },
+  {
+    "longitude": "-73.94500379",
+    "latitude": "40.71929301",
+    "name": "Graham Ave & Herbert St",
+    "capacity": "26"
+  },
+  {
+    "longitude": "-74.0524783",
+    "latitude": "40.7376037",
+    "name": "Oakland Ave",
+    "capacity": "26"
+  },
+  {
+    "longitude": "-73.960631489753723",
+    "latitude": "40.709248262761569",
+    "name": "Broadway & Roebling St",
+    "capacity": "26"
+  },
+  {
+    "longitude": "-73.949843645095825",
+    "latitude": "40.7239567849954",
+    "name": "Leonard St & Nassau Ave",
+    "capacity": "26"
+  },
+  {
+    "longitude": "-74.0575736",
+    "latitude": "40.7311689",
+    "name": "Hilltop",
+    "capacity": "26"
+  },
+  {
+    "longitude": "-73.92754",
+    "latitude": "40.70166",
+    "name": "Wilson Ave & Troutman St",
+    "capacity": "26"
+  },
+  {
+    "longitude": "-73.9279917",
+    "latitude": "40.7531106",
+    "name": "37 Ave & 35 St",
+    "capacity": "26"
+  },
+  {
+    "longitude": "-73.95394",
+    "latitude": "40.73026",
+    "name": "Greenpoint Ave & Manhattan Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.951475",
+    "latitude": "40.804372",
+    "name": "Adam Clayton Powell Blvd & W 118 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.956934",
+    "latitude": "40.665816",
+    "name": "Bedford Ave & Montgomery St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9125551",
+    "latitude": "40.7747878",
+    "name": "31 St & 23 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9605695",
+    "latitude": "40.66314",
+    "name": "Franklin Ave & Empire Blvd",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.958013653755188",
+    "latitude": "40.694546087246025",
+    "name": "Franklin Ave & Myrtle Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.93540375",
+    "latitude": "40.74469738",
+    "name": "31 St & Thomson Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.99520919",
+    "latitude": "40.6881529",
+    "name": "Congress St & Clinton St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.97854971",
+    "latitude": "40.6795766",
+    "name": "Baltic St & 5 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9865",
+    "latitude": "40.677027",
+    "name": "3 Ave & Carroll St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.986923",
+    "latitude": "40.734232",
+    "name": "E 15 St & 3 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.97431458",
+    "latitude": "40.68539567",
+    "name": "S Portland Ave & Hanson Pl",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.95484712",
+    "latitude": "40.72079821",
+    "name": "N 12 St & Bedford Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9814832",
+    "latitude": "40.6751622",
+    "name": "Carroll St & 5 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.98775226",
+    "latitude": "40.6750705",
+    "name": "3 St & 3 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.99905709",
+    "latitude": "40.6809591",
+    "name": "1 Pl & Clinton St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.945993",
+    "latitude": "40.791976",
+    "name": "E 106 St & Lexington Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-74.003675580024719",
+    "latitude": "40.7435337324616",
+    "name": "W 18 St & 9 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.923711",
+    "latitude": "40.707165",
+    "name": "Wyckoff Av & Jefferson St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.923769",
+    "latitude": "40.702013",
+    "name": "Suydam St & Knickerbocker Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.968415260314941",
+    "latitude": "40.707644944175705",
+    "name": "Kent Ave & S 11 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.98776323",
+    "latitude": "40.71269042",
+    "name": "Madison St & Clinton St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.99318208",
+    "latitude": "40.6829151",
+    "name": "Degraw St & Smith St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.945925",
+    "latitude": "40.804038",
+    "name": "Mt Morris Park W & W 120 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9618148",
+    "latitude": "40.6686744",
+    "name": "Carroll St & Washington Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.929574862122521",
+    "latitude": "40.756512729849547",
+    "name": "36 Ave & 31 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.98362464",
+    "latitude": "40.69474881",
+    "name": "Johnson St & Gold St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.95866",
+    "latitude": "40.73564",
+    "name": "Franklin St & Dupont St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.98541675",
+    "latitude": "40.6704922",
+    "name": "7 St & 5 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.98620772",
+    "latitude": "40.6849668",
+    "name": "Bond St & Bergen St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.93561",
+    "latitude": "40.743",
+    "name": "47 Ave & 31 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.92095",
+    "latitude": "40.7027",
+    "name": "Irving Ave & DeKalb Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.99973337",
+    "latitude": "40.71910537",
+    "name": "Howard St & Centre St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.98971773",
+    "latitude": "40.69991755",
+    "name": "Cadman Plaza E & Red Cross Pl",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-74.00618026",
+    "latitude": "40.73652889",
+    "name": "Bank St & Hudson St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.96525063",
+    "latitude": "40.71044554",
+    "name": "Broadway & Berry St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.94446054",
+    "latitude": "40.77518615",
+    "name": "East End Ave & E 86 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9979009",
+    "latitude": "40.75660359",
+    "name": "W 37 St & 10 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.963198",
+    "latitude": "40.716887",
+    "name": "Wythe Ave & Metropolitan Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.97754961",
+    "latitude": "40.7785669",
+    "name": "W 74 St & Columbus Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.98377641",
+    "latitude": "40.668127",
+    "name": "6 Ave & 9 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9183302",
+    "latitude": "40.78145",
+    "name": "Ditmars Blvd & 19 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.986726701259613",
+    "latitude": "40.701403172577244",
+    "name": "Jay St & York St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.98154004",
+    "latitude": "40.6792788",
+    "name": "Douglass St & 4 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9646795",
+    "latitude": "40.6804836",
+    "name": "Underhill Ave & Pacific St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-74.00731853",
+    "latitude": "40.70706456",
+    "name": "Maiden Ln & Pearl St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.97809472",
+    "latitude": "40.736502",
+    "name": "E 23 St & 1 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.938475",
+    "latitude": "40.6800105",
+    "name": "Albany Ave & Fulton St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.95451",
+    "latitude": "40.74731",
+    "name": "46 Ave & 5 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.99193043",
+    "latitude": "40.71173107",
+    "name": "Pike St & Monroe St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.957539",
+    "latitude": "40.745038",
+    "name": "Center Blvd & 48 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.96023854",
+    "latitude": "40.68900443",
+    "name": "Lafayette Ave & Classon Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.94733276",
+    "latitude": "40.74524768",
+    "name": "Jackson Ave & 46 Rd",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.94728331",
+    "latitude": "40.7877214",
+    "name": "3 Ave & E 100 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.941747",
+    "latitude": "40.80698",
+    "name": "5 Ave & E 126 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.934171",
+    "latitude": "40.770845",
+    "name": "Vernon Blvd & 30 Rd",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9647628",
+    "latitude": "40.68851534",
+    "name": "Lafayette Ave & St James Pl",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.98690506",
+    "latitude": "40.76584941",
+    "name": "W 54 St & 9 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.99645295",
+    "latitude": "40.6861758",
+    "name": "Kane St & Clinton St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9596082",
+    "latitude": "40.6765198",
+    "name": "Classon Ave & St Marks Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9492286",
+    "latitude": "40.8125511",
+    "name": "Frederick Douglass Blvd & W 129 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9169858",
+    "latitude": "40.7671",
+    "name": "28 Ave & 35 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.99011",
+    "latitude": "40.732647",
+    "name": "4 Ave & E 12 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.99480012",
+    "latitude": "40.72317958",
+    "name": "Mott St & Prince St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9419949",
+    "latitude": "40.8005385",
+    "name": "E 118 St & Park Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9680438",
+    "latitude": "40.6794388",
+    "name": "Bergen St & Vanderbilt Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9671457",
+    "latitude": "40.6740123",
+    "name": "Underhill Ave & Lincoln Pl",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.999233841896057",
+    "latitude": "40.749370241932773",
+    "name": "9 Ave & W 28 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.99851193",
+    "latitude": "40.71307916",
+    "name": "St James Pl & Oliver St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.96922273",
+    "latitude": "40.68415748",
+    "name": "Fulton St & Clermont Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9379",
+    "latitude": "40.8029263",
+    "name": "E 123 St & Lexington Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.99404649",
+    "latitude": "40.72903917",
+    "name": "Washington Pl & Broadway",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9504154",
+    "latitude": "40.72179134",
+    "name": "Driggs Ave & Lorimer St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.926241",
+    "latitude": "40.697842",
+    "name": "Cedar St & Myrtle Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-74.00016545",
+    "latitude": "40.71117416",
+    "name": "St James Pl & Pearl St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-74.0090009",
+    "latitude": "40.71870987",
+    "name": "Harrison St & Hudson St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9485678",
+    "latitude": "40.7552433",
+    "name": "Vernon Blvd & 41 Rd",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.93797",
+    "latitude": "40.751047",
+    "name": "28 St & 41 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9170071",
+    "latitude": "40.7611488",
+    "name": "31 Ave & Steinway St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.91727",
+    "latitude": "40.7098",
+    "name": "Willoughby Ave & Onderdonk Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.95852515",
+    "latitude": "40.7190095",
+    "name": "Berry St & N 8 St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.97839676",
+    "latitude": "40.6703837",
+    "name": "3 St & 7 Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.969024",
+    "latitude": "40.6767",
+    "name": "Park Pl & Vanderbilt Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.9437303",
+    "latitude": "40.7016657",
+    "name": "Broadway & Whipple St",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.959219306707382",
+    "latitude": "40.722481886382191",
+    "name": "N 11 St & Kent Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.95399026",
+    "latitude": "40.68216564",
+    "name": "Hancock St & Bedford Ave",
+    "capacity": "27"
+  },
+  {
+    "longitude": "-73.98282002",
+    "latitude": "40.6772744",
+    "name": "Union St & 4 Ave",
+    "capacity": "28"
+  },
+  {
+    "longitude": "-73.9870295",
+    "latitude": "40.71559509",
+    "name": "Clinton St & Grand St",
+    "capacity": "28"
+  },
+  {
+    "longitude": "-73.97536082",
+    "latitude": "40.74144387",
+    "name": "1 Ave & E 30 St",
+    "capacity": "28"
+  },
+  {
+    "longitude": "-73.95299117",
+    "latitude": "40.72708584",
+    "name": "Meserole Ave & Manhattan Ave",
+    "capacity": "28"
+  },
+  {
+    "longitude": "-73.95850939",
+    "latitude": "40.71745169",
+    "name": "N 6 St & Bedford Ave",
+    "capacity": "28"
+  },
+  {
+    "longitude": "-74.00348559",
+    "latitude": "40.6830456",
+    "name": "Carroll St & Columbia St",
+    "capacity": "28"
+  },
+  {
+    "longitude": "-73.9609",
+    "latitude": "40.6721683",
+    "name": "Lincoln Pl & Classon Ave",
+    "capacity": "28"
+  },
+  {
+    "longitude": "-73.96222088",
+    "latitude": "40.773763",
+    "name": "E 76 St & Park Ave",
+    "capacity": "28"
+  },
+  {
+    "longitude": "-73.94818595",
+    "latitude": "40.70411791",
+    "name": "Lorimer St & Broadway",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.944024",
+    "latitude": "40.711863",
+    "name": "Graham Ave & Grand St",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.9441232",
+    "latitude": "40.7954121",
+    "name": "Lexington Ave & E 111 St",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.99061728",
+    "latitude": "40.76669671",
+    "name": "W 53 St & 10 Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.99422366",
+    "latitude": "40.7158155",
+    "name": "Forsyth St & Canal St",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.9710097",
+    "latitude": "40.6809741",
+    "name": "Carlton Ave & Dean St",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.962262272834778",
+    "latitude": "40.75892386377695",
+    "name": "E 58 St & 1 Ave (NE Corner)",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.99431",
+    "latitude": "40.735445",
+    "name": "W 13 St & 5 Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-74.00670227",
+    "latitude": "40.70355377",
+    "name": "South St & Gouverneur Ln",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.979452550411224",
+    "latitude": "40.6610633719006",
+    "name": "West Drive & Prospect Park West",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.92852",
+    "latitude": "40.69329",
+    "name": "Broadway & Kosciuszko St",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.98016555",
+    "latitude": "40.71739973",
+    "name": "Columbia St & Rivington St",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.988639",
+    "latitude": "40.768254",
+    "name": "W 56 St & 10 Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.96603308",
+    "latitude": "40.75797322",
+    "name": "E 55 St & 2 Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.9854617",
+    "latitude": "40.6663181",
+    "name": "6 Ave & 12 St",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.932719",
+    "latitude": "40.757186",
+    "name": "28 St & 36 Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.9561677",
+    "latitude": "40.6758324",
+    "name": "Franklin Ave & St Marks Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.92825",
+    "latitude": "40.69502",
+    "name": "Bushwick Ave & Dekalb Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.975232094526291",
+    "latitude": "40.675146838709786",
+    "name": "Berkeley Pl & 7 Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.9468208",
+    "latitude": "40.7724607",
+    "name": "E 82 St & East End Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.9398167",
+    "latitude": "40.8013066",
+    "name": "Lexington Ave & E 120 St",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.92146",
+    "latitude": "40.69146",
+    "name": "Bushwick Ave & Linden St",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.9442507",
+    "latitude": "40.8014866",
+    "name": "E 118 St & Madison Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.90756",
+    "latitude": "40.68139",
+    "name": "Broadway & Furman Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.90474",
+    "latitude": "40.67945",
+    "name": "Somers St & Broadway",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.9596214",
+    "latitude": "40.8086249",
+    "name": "Amsterdam Ave & W 119 St",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.91164",
+    "latitude": "40.69545",
+    "name": "Putnam Ave & Knickerbocker Ave",
+    "capacity": "29"
+  },
+  {
+    "longitude": "-73.98940236",
+    "latitude": "40.70255088",
+    "name": "Front St & Washington St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.984516561031342",
+    "latitude": "40.688417427540834",
+    "name": "Schermerhorn St & Bond St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.98352355",
+    "latitude": "40.6728155",
+    "name": "5 Ave & 3 St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.942954",
+    "latitude": "40.80295",
+    "name": "Madison Ave & E 120 St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.98990025",
+    "latitude": "40.71427487",
+    "name": "Canal St & Rutgers St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.95234386",
+    "latitude": "40.71413311",
+    "name": "Metropolitan Ave & Meeker Ave",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.98876585",
+    "latitude": "40.6705135",
+    "name": "4 Ave & 9 St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.93889",
+    "latitude": "40.72226",
+    "name": "Morgan Ave & Lombardy St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-74.00297088",
+    "latitude": "40.72710258",
+    "name": "MacDougal St & Prince St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.918877",
+    "latitude": "40.698568",
+    "name": "Greene Av & Myrtle Av",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.975767",
+    "latitude": "40.72387",
+    "name": "Avenue D & E 8 St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-74.034234",
+    "latitude": "40.7192517",
+    "name": "Harborside",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-74.0103006362915",
+    "latitude": "40.720195214374648",
+    "name": "North Moore St & Greenwich St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.990157246589661",
+    "latitude": "40.695317277669034",
+    "name": "Cadman Plaza E & Johnson St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.97738662",
+    "latitude": "40.7381765",
+    "name": "E 25 St & 1 Ave",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.94860294",
+    "latitude": "40.7859201",
+    "name": "E 97 St & 3 Ave",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.90951",
+    "latitude": "40.68929",
+    "name": "Central Ave & Covert St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.989179581403732",
+    "latitude": "40.763604677958625",
+    "name": "W 50 St & 9 Ave",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-74.01322069",
+    "latitude": "40.71754834",
+    "name": "West St & Chambers St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-74.03281",
+    "latitude": "40.71687",
+    "name": "Columbus Dr at Exchange Pl",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.97422494",
+    "latitude": "40.72580614",
+    "name": "Avenue D & E 12 St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.953247368335724",
+    "latitude": "40.814394437915816",
+    "name": "W 129 St & Convent Ave",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.9631611",
+    "latitude": "40.6737236",
+    "name": "St Johns Pl & Washington Ave",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.933871",
+    "latitude": "40.706237",
+    "name": "McKibbin St & Bogart St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.93921",
+    "latitude": "40.70099",
+    "name": "Beaver St & Fayette St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.944507",
+    "latitude": "40.715143",
+    "name": "Graham Ave & Conselyea St",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.90623",
+    "latitude": "40.68281",
+    "name": "Bushwick Ave & Furman Ave",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.97087984",
+    "latitude": "40.6729679",
+    "name": "Grand Army Plaza & Plaza St West",
+    "capacity": "30"
+  },
+  {
+    "longitude": "-73.99069656",
+    "latitude": "40.72502876",
+    "name": "E 2 St & 2 Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9490782",
+    "latitude": "40.8025566",
+    "name": "Lenox Ave & W 117 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.97877",
+    "latitude": "40.69178",
+    "name": "Willoughby St & Ashland Pl",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-74.00674436",
+    "latitude": "40.73172428",
+    "name": "Barrow St & Hudson St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.98802084",
+    "latitude": "40.7172274",
+    "name": "Norfolk St & Broome St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.98379855",
+    "latitude": "40.72621788",
+    "name": "E 7 St & Avenue A",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.944846",
+    "latitude": "40.7989445",
+    "name": "E 115 St & Madison Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.94552579",
+    "latitude": "40.7862586",
+    "name": "2 Ave & E 99 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.937261",
+    "latitude": "40.796879",
+    "name": "E 116 St & 2 Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.997178",
+    "latitude": "40.698458",
+    "name": "Brooklyn Bridge Park - Pier 2",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.989111",
+    "latitude": "40.722055",
+    "name": "Allen St & Stanton St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.99726235",
+    "latitude": "40.74238787",
+    "name": "W 20 St & 7 Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9558732509613",
+    "latitude": "40.744363287066875",
+    "name": "48 Ave & 5 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.95068615",
+    "latitude": "40.77565541",
+    "name": "E 84 St & 1 Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9813018",
+    "latitude": "40.69196566",
+    "name": "Willoughby St & Fleet St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.95032283",
+    "latitude": "40.70029511",
+    "name": "Union Ave & Wallabout St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.98266566",
+    "latitude": "40.77492513",
+    "name": "W 67 St & Broadway",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9500739",
+    "latitude": "40.8011939",
+    "name": "Lenox Ave & W 115 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9389152",
+    "latitude": "40.799139",
+    "name": "E 118 St & 3 Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.96961715",
+    "latitude": "40.78472675",
+    "name": "Central Park West & W 85 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.976682",
+    "latitude": "40.68691865",
+    "name": "Lafayette Ave & Fort Greene Pl",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-74.005226",
+    "latitude": "40.751396",
+    "name": "11 Ave & W 27 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.96784384",
+    "latitude": "40.75206862",
+    "name": "E 47 St & 1 Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9534573",
+    "latitude": "40.7449067",
+    "name": "Vernon Blvd & 47 Rd",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.97668709",
+    "latitude": "40.72228087",
+    "name": "E 6 St & Avenue D",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.983042687177658",
+    "latitude": "40.689621887903328",
+    "name": "Bond St & Fulton St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.955201357603073",
+    "latitude": "40.718169694542077",
+    "name": "Driggs Ave & N 9 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.96685276",
+    "latitude": "40.77282817",
+    "name": "5 Ave & E 73 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.95698119",
+    "latitude": "40.71286844",
+    "name": "Grand St & Havemeyer St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.98261428",
+    "latitude": "40.77163851",
+    "name": "W 63 St & Broadway",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.974124",
+    "latitude": "40.7941654",
+    "name": "West End Ave & W 94 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-74.00859207",
+    "latitude": "40.7361967",
+    "name": "Bank St & Washington St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.959432",
+    "latitude": "40.68186",
+    "name": "Fulton St & Irving Pl",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-74.0127234",
+    "latitude": "40.70255065",
+    "name": "Water - Whitehall Plaza",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.96024116",
+    "latitude": "40.71534825",
+    "name": "Metropolitan Ave & Bedford Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.98288594",
+    "latitude": "40.77748046",
+    "name": "W 70 St & Amsterdam Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.949373",
+    "latitude": "40.8078316",
+    "name": "Adam Clayton Powell Blvd & W 123 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9912551",
+    "latitude": "40.76019252",
+    "name": "9 Ave & W 45 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.953149",
+    "latitude": "40.809725",
+    "name": "St Nicholas Ave & Manhattan Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9842844",
+    "latitude": "40.69221589",
+    "name": "Duffield St & Willoughby St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9851615",
+    "latitude": "40.76370739",
+    "name": "8 Ave & W 52 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9999786",
+    "latitude": "40.69165183",
+    "name": "Atlantic Ave & Furman St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.98759104",
+    "latitude": "40.6864442",
+    "name": "Dean St & Hoyt St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.923511",
+    "latitude": "40.69047",
+    "name": "Grove St & Broadway",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9236611",
+    "latitude": "40.7557327",
+    "name": "35 Ave & 37 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.991479",
+    "latitude": "40.719383",
+    "name": "Delancey St & Eldridge St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.97265183",
+    "latitude": "40.68753406",
+    "name": "Cumberland St & Lafayette Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.98751968",
+    "latitude": "40.73827428",
+    "name": "E 20 St & Park Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.99475825",
+    "latitude": "40.680611",
+    "name": "Carroll St & Smith St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.96536851",
+    "latitude": "40.69196035",
+    "name": "Willoughby Ave & Hall St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.94073717",
+    "latitude": "40.75110165",
+    "name": "Queens Plaza North & Crescent St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.979921936988816",
+    "latitude": "40.752165280621966",
+    "name": "E 41 St & Madison Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.950503",
+    "latitude": "40.7849032",
+    "name": "E 95 St & 3 Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.94335788",
+    "latitude": "40.75325964",
+    "name": "21 St & Queens Plaza North",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.962246179580688",
+    "latitude": "40.76712840349542",
+    "name": "E 68 St & 3 Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9184057",
+    "latitude": "40.7699176",
+    "name": "31 St & Astoria Blvd",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.965995907783508",
+    "latitude": "40.683238654603414",
+    "name": "Fulton St & Waverly Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.95621",
+    "latitude": "40.72606",
+    "name": "Banker St & Meserole Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-74.00552427",
+    "latitude": "40.71146364",
+    "name": "Spruce St & Nassau St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.97363831",
+    "latitude": "40.668132",
+    "name": "3 St & Prospect Park West",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9631145",
+    "latitude": "40.6716493",
+    "name": "Eastern Pkwy & Washington Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.95856158",
+    "latitude": "40.77314236",
+    "name": "E 77 St & 3 Ave",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.9681805305",
+    "latitude": "40.8021174",
+    "name": "West End Ave & W 107 St",
+    "capacity": "31"
+  },
+  {
+    "longitude": "-73.971888",
+    "latitude": "40.7937704",
+    "name": "W 95 St & Broadway",
+    "capacity": "32"
+  },
+  {
+    "longitude": "-73.97282625",
+    "latitude": "40.75255434",
+    "name": "E 45 St & 3 Ave",
+    "capacity": "32"
+  },
+  {
+    "longitude": "-73.94100005",
+    "latitude": "40.71247661",
+    "name": "Bushwick Ave & Powers St",
+    "capacity": "32"
+  },
+  {
+    "longitude": "-74.046963751316071",
+    "latitude": "40.735208380453571",
+    "name": "Hoboken Ave at Monmouth St",
+    "capacity": "32"
+  },
+  {
+    "longitude": "-73.93223",
+    "latitude": "40.69544",
+    "name": "Suydam St & Broadway",
+    "capacity": "32"
+  },
+  {
+    "longitude": "-73.90506",
+    "latitude": "40.68906",
+    "name": "Wilson Ave & Moffat St",
+    "capacity": "32"
+  },
+  {
+    "longitude": "-73.972889184951782",
+    "latitude": "40.790179480950812",
+    "name": "W 90 St & Amsterdam Ave",
+    "capacity": "32"
+  },
+  {
+    "longitude": "-73.95779",
+    "latitude": "40.72906",
+    "name": "Milton St & Franklin St",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-74.010627865791321",
+    "latitude": "40.655399774478312",
+    "name": "39 St & 2 Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.96724467",
+    "latitude": "40.76095756",
+    "name": "E 58 St & 3 Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.9559308",
+    "latitude": "40.8038654",
+    "name": "Frederick Douglass Blvd & W 115 St",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.997249007225037",
+    "latitude": "40.722103786686034",
+    "name": "Cleveland Pl & Spring St",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-74.01361706",
+    "latitude": "40.70463334",
+    "name": "Broadway & Battery Pl",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.993799686431885",
+    "latitude": "40.758984813996342",
+    "name": "W 42 St & Dyer Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.975673317909227",
+    "latitude": "40.680944723477296",
+    "name": "Bergen St & Flatbush Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.97069431",
+    "latitude": "40.75828065",
+    "name": "E 53 St & Lexington Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.947764933109283",
+    "latitude": "40.809495347779475",
+    "name": "Adam Clayton Powell Blvd & W 126 St",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.95095259",
+    "latitude": "40.70877084",
+    "name": "Stagg St & Union Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.99852205",
+    "latitude": "40.73226398",
+    "name": "MacDougal St & Washington Sq",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.94370784",
+    "latitude": "40.7892105",
+    "name": "2 Ave & E 104 St",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.95033068",
+    "latitude": "40.7904828",
+    "name": "E 102 St & Park Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.99994661",
+    "latitude": "40.73781509",
+    "name": "W 13 St & 7 Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.921631",
+    "latitude": "40.756913",
+    "name": "34 Ave & 38 St",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.968896",
+    "latitude": "40.693261",
+    "name": "Clinton Ave & Myrtle Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.936322",
+    "latitude": "40.805726",
+    "name": "Lexington Ave & E 127 St",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-74.00666661",
+    "latitude": "40.71911552",
+    "name": "Franklin St & W Broadway",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.97111473",
+    "latitude": "40.6750207",
+    "name": "Plaza St West & Flatbush Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.95796783",
+    "latitude": "40.70708701",
+    "name": "Division Ave & Marcy Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-74.01167797",
+    "latitude": "40.70365182",
+    "name": "Broad St & Bridge St",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.959223",
+    "latitude": "40.759107",
+    "name": "E 60 St & York Ave",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.9612547",
+    "latitude": "40.8120562",
+    "name": "Broadway & W 122 St",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-74.011223316192627",
+    "latitude": "40.714851505262516",
+    "name": "Murray St & Greenwich St",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-74.009447",
+    "latitude": "40.711066",
+    "name": "Fulton St & Broadway",
+    "capacity": "33"
+  },
+  {
+    "longitude": "-73.97895137",
+    "latitude": "40.68312489",
+    "name": "Dean St & 4 Ave",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-73.97768752",
+    "latitude": "40.72521311",
+    "name": "E 9 St & Avenue C",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-73.9452087",
+    "latitude": "40.808442",
+    "name": "Lenox Ave & W 126 St",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-73.9518776",
+    "latitude": "40.8114323",
+    "name": "St. Nicholas Ave & W 126 St",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-73.9432635",
+    "latitude": "40.74718234",
+    "name": "44 Dr & Jackson Ave",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-73.98889957",
+    "latitude": "40.73223272",
+    "name": "E 12 St & 3 Ave",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-73.97402311",
+    "latitude": "40.7597108",
+    "name": "E 53 St & Madison Ave",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-73.96069399",
+    "latitude": "40.7781314",
+    "name": "Madison Ave & E 82 St",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-73.99595065",
+    "latitude": "40.69512845",
+    "name": "Hicks St & Montague St",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-73.98291153",
+    "latitude": "40.7568001",
+    "name": "W 45 St & 6 Ave",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-74.000472",
+    "latitude": "40.726378",
+    "name": "W Broadway & W Houston St",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-74.063912630081177",
+    "latitude": "40.730897097861792",
+    "name": "Sip Ave",
+    "capacity": "34"
+  },
+  {
+    "longitude": "-73.9209334552288",
+    "latitude": "40.7675487799971",
+    "name": "31 St & Newtown Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.99147535",
+    "latitude": "40.72229346",
+    "name": "Stanton St & Chrystie St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.925921",
+    "latitude": "40.761584",
+    "name": "31 St & Broadway",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.97573881",
+    "latitude": "40.73314259",
+    "name": "E 20 St & FDR Drive",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.95826",
+    "latitude": "40.73266",
+    "name": "Huron St & Franklin St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.94755757",
+    "latitude": "40.7903051",
+    "name": "E 103 St & Lexington Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.99063168",
+    "latitude": "40.6867443",
+    "name": "Bergen St & Smith St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.99810231",
+    "latitude": "40.72917025",
+    "name": "LaGuardia Pl & W 3 St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.98473765",
+    "latitude": "40.73624527",
+    "name": "E 19 St & 3 Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-74.002950346",
+    "latitude": "40.749717753",
+    "name": "W 26 St & 10 Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.987167",
+    "latitude": "40.695065",
+    "name": "Jay St & Tech Pl",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.9796772",
+    "latitude": "40.68683208",
+    "name": "3 Ave & Schermerhorn St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.99144871",
+    "latitude": "40.74395411",
+    "name": "W 25 St & 6 Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.976806",
+    "latitude": "40.739445",
+    "name": "E 27 St & 1 Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.96060712",
+    "latitude": "40.7699426",
+    "name": "3 Ave & E 72 St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.9551508",
+    "latitude": "40.81",
+    "name": "Morningside Ave & W 123 St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.986274",
+    "latitude": "40.720747",
+    "name": "Stanton St & Norfolk St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.946041",
+    "latitude": "40.7779453",
+    "name": "E 89 St & York Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.99461843",
+    "latitude": "40.76009437",
+    "name": "W 43 St & 10 Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.97109243",
+    "latitude": "40.76350532",
+    "name": "E 59 St & Madison Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-74.008591",
+    "latitude": "40.728846",
+    "name": "Greenwich St & W Houston St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.9170074",
+    "latitude": "40.7711528",
+    "name": "31 St & Hoyt Ave N",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.96592976",
+    "latitude": "40.75455731",
+    "name": "E 51 St & 1 Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.9168",
+    "latitude": "40.68663",
+    "name": "Broadway & Hancock St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.99682619",
+    "latitude": "40.71117444",
+    "name": "Catherine St & Monroe St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.97283406",
+    "latitude": "40.78499979",
+    "name": "W 84 St & Columbus Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.933492898941026",
+    "latitude": "40.751869514218747",
+    "name": "31 St & Northern Blvd",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.957364559173584",
+    "latitude": "40.810285063060029",
+    "name": "Morningside Dr & Amsterdam Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.9521",
+    "latitude": "40.74966",
+    "name": "9 St & 44 Rd",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.9664492472",
+    "latitude": "40.8008363",
+    "name": "W 106 St & Amsterdam Ave",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.952429294586182",
+    "latitude": "40.789485415532148",
+    "name": "Madison Ave & E 99 St",
+    "capacity": "35"
+  },
+  {
+    "longitude": "-73.9523",
+    "latitude": "40.7987859",
+    "name": "Lenox Ave & W 111 St",
+    "capacity": "36"
+  },
+  {
+    "longitude": "-73.98912867",
+    "latitude": "40.68926942",
+    "name": "State St & Smith St",
+    "capacity": "36"
+  },
+  {
+    "longitude": "-73.9448625",
+    "latitude": "40.70870368",
+    "name": "Scholes St & Manhattan Ave",
+    "capacity": "36"
+  },
+  {
+    "longitude": "-73.99906065",
+    "latitude": "40.73047747",
+    "name": "Sullivan St & Washington Sq",
+    "capacity": "36"
+  },
+  {
+    "longitude": "-73.98191841",
+    "latitude": "40.76915505",
+    "name": "Broadway & W 60 St",
+    "capacity": "36"
+  },
+  {
+    "longitude": "-73.981095",
+    "latitude": "40.714211",
+    "name": "Henry St & Grand St",
+    "capacity": "36"
+  },
+  {
+    "longitude": "-73.955613",
+    "latitude": "40.799484",
+    "name": "Central Park North & Adam Clayton Powell Blvd",
+    "capacity": "36"
+  },
+  {
+    "longitude": "-73.9396861",
+    "latitude": "40.8045555",
+    "name": "Park Ave & E 124 St",
+    "capacity": "36"
+  },
+  {
+    "longitude": "-74.009355157613754",
+    "latitude": "40.713341842759071",
+    "name": "Park Pl & Church St",
+    "capacity": "36"
+  },
+  {
+    "longitude": "-73.97948148",
+    "latitude": "40.71219906",
+    "name": "Cherry St",
+    "capacity": "36"
+  },
+  {
+    "longitude": "-73.99884222",
+    "latitude": "40.76030096",
+    "name": "11 Ave & W 41 St",
+    "capacity": "37"
+  },
+  {
+    "longitude": "-73.987973928451538",
+    "latitude": "40.735367055605394",
+    "name": "E 16 St & Irving Pl",
+    "capacity": "37"
+  },
+  {
+    "longitude": "-73.957145",
+    "latitude": "40.801694",
+    "name": "Frederick Douglass Blvd & W 112 St",
+    "capacity": "37"
+  },
+  {
+    "longitude": "-74.00637",
+    "latitude": "40.70437",
+    "name": "Wall St & South St",
+    "capacity": "37"
+  },
+  {
+    "longitude": "-74.00495",
+    "latitude": "40.70838",
+    "name": "Cliff St & Fulton St",
+    "capacity": "37"
+  },
+  {
+    "longitude": "-73.98455",
+    "latitude": "40.75492",
+    "name": "W 42 St & 6 Ave",
+    "capacity": "37"
+  },
+  {
+    "longitude": "-73.95348296",
+    "latitude": "40.76663814",
+    "name": "E 72 St & York Ave",
+    "capacity": "37"
+  },
+  {
+    "longitude": "-74.000939",
+    "latitude": "40.735918",
+    "name": "Perry St & Greenwich Ave",
+    "capacity": "37"
+  },
+  {
+    "longitude": "-73.991581",
+    "latitude": "40.7003",
+    "name": "Henry St & Middagh St",
+    "capacity": "37"
+  },
+  {
+    "longitude": "-73.97995466",
+    "latitude": "40.72299208",
+    "name": "E 5 St & Avenue C",
+    "capacity": "37"
+  },
+  {
+    "longitude": "-73.954274654388428",
+    "latitude": "40.774779448957275",
+    "name": "E 81 St & 2 Ave",
+    "capacity": "37"
+  },
+  {
+    "longitude": "-73.94594",
+    "latitude": "40.7817212",
+    "name": "1 Ave & E 94 St",
+    "capacity": "38"
+  },
+  {
+    "longitude": "-74.002353",
+    "latitude": "40.752694",
+    "name": "W 30 St & 10 Ave",
+    "capacity": "38"
+  },
+  {
+    "longitude": "-73.95939",
+    "latitude": "40.78307",
+    "name": "5 Ave & E 88 St",
+    "capacity": "38"
+  },
+  {
+    "longitude": "-73.948800265789032",
+    "latitude": "40.717661970839941",
+    "name": "Frost St & Meeker Ave",
+    "capacity": "38"
+  },
+  {
+    "longitude": "-73.955327",
+    "latitude": "40.7835016",
+    "name": "E 91 St & Park Ave",
+    "capacity": "38"
+  },
+  {
+    "longitude": "-73.95595908164978",
+    "latitude": "40.781410700190015",
+    "name": "E 88 St & Park Ave",
+    "capacity": "38"
+  },
+  {
+    "longitude": "-73.99301222",
+    "latitude": "40.76269882",
+    "name": "W 47 St & 10 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.00247214",
+    "latitude": "40.71939226",
+    "name": "Lispenard St & Broadway",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.01234218",
+    "latitude": "40.70122128",
+    "name": "South St & Whitehall St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.97706058",
+    "latitude": "40.74290902",
+    "name": "2 Ave & E 31 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.98362492",
+    "latitude": "40.78414472",
+    "name": "Riverside Dr & W 78 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.991833627223969",
+    "latitude": "40.691029256779679",
+    "name": "Schermerhorn St & Court St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.98672378",
+    "latitude": "40.73047309",
+    "name": "E 11 St & 2 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.98978041",
+    "latitude": "40.7262807",
+    "name": "E 4 St & 2 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.9488134",
+    "latitude": "40.778301",
+    "name": "E 88 St & 1 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.968087",
+    "latitude": "40.7919557",
+    "name": "Columbus Ave & W 95 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.977907598018632",
+    "latitude": "40.685068073081773",
+    "name": "Hanson Pl & Ashland Pl",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.981687",
+    "latitude": "40.783786",
+    "name": "West End Ave & W 78 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.9734419",
+    "latitude": "40.74780373",
+    "name": "E 39 St & 2 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.95212324",
+    "latitude": "40.72311651",
+    "name": "Bedford Ave & Nassau Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.977003693580627",
+    "latitude": "40.793134809866629",
+    "name": "Riverside Dr & W 91 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.954692",
+    "latitude": "40.805159",
+    "name": "Frederick Douglass Blvd & W 117 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.956461",
+    "latitude": "40.813358",
+    "name": "Amsterdam Ave & W 125 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.98631746",
+    "latitude": "40.69236178",
+    "name": "Lawrence St & Willoughby St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.95482273",
+    "latitude": "40.7689738",
+    "name": "E 74 St & 1 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.000271",
+    "latitude": "40.735238",
+    "name": "Greenwich Ave & Charles St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.95242",
+    "latitude": "40.71924",
+    "name": "Union Ave & N 12 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.9471673",
+    "latitude": "40.7839636",
+    "name": "2 Ave & E 96 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.960405",
+    "latitude": "40.818299",
+    "name": "12 Ave & W 125 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.98128127",
+    "latitude": "40.78720869",
+    "name": "Riverside Dr & W 82 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.988885879516587",
+    "latitude": "40.777507027547976",
+    "name": "Riverside Blvd & W 67 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.00214988",
+    "latitude": "40.73038599",
+    "name": "Carmine St & 6 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.98658032",
+    "latitude": "40.75513557",
+    "name": "Broadway & W 41 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.9711457439",
+    "latitude": "40.8013434",
+    "name": "Riverside Dr & W 104 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.007473587989807",
+    "latitude": "40.742753828659026",
+    "name": "W 15 St & 10 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.0046073",
+    "latitude": "40.71273266",
+    "name": "Centre St & Chambers St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.97667321",
+    "latitude": "40.78524672",
+    "name": "Amsterdam Ave & W 82 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.99383605",
+    "latitude": "40.70277159",
+    "name": "Old Fulton St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.01658354",
+    "latitude": "40.7153379",
+    "name": "Vesey Pl & River Terrace",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.962220698595047",
+    "latitude": "40.764718519443392",
+    "name": "E 65 St & 2 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.005070328712463",
+    "latitude": "40.739448201304036",
+    "name": "Gansevoort St & Hudson St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.97374737",
+    "latitude": "40.77896784",
+    "name": "Central Park West & W 76 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.99230033159256",
+    "latitude": "40.694281141397326",
+    "name": "Montague St & Clinton St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.949655890464783",
+    "latitude": "40.781122299341661",
+    "name": "E 91 St & 2 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.97041192",
+    "latitude": "40.7973721",
+    "name": "W 100 St & Broadway",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.99266288",
+    "latitude": "40.71893904",
+    "name": "Forsyth St & Broome St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.9645",
+    "latitude": "40.795",
+    "name": "W 100 St & Manhattan Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.95249933",
+    "latitude": "40.7922553",
+    "name": "5 Ave & E 103 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.00612572",
+    "latitude": "40.70530954",
+    "name": "Front St & Maiden Ln",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.002381414175019",
+    "latitude": "40.72170005235607",
+    "name": "Grand St & Greene St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.98955109",
+    "latitude": "40.7403432",
+    "name": "Broadway & E 22 St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.9521667",
+    "latitude": "40.7806284",
+    "name": "E 89 St & 3 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.97121414",
+    "latitude": "40.75022392",
+    "name": "E 43 St & 2 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.964928",
+    "latitude": "40.805973",
+    "name": "W 113 St & Broadway",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.9790689945221",
+    "latitude": "40.7667405590595",
+    "name": "7 Ave & Central Park South",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.0091059",
+    "latitude": "40.71625008",
+    "name": "Hudson St & Reade St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.00562789",
+    "latitude": "40.71450451",
+    "name": "Reade St & Broadway",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.95407149",
+    "latitude": "40.77801203",
+    "name": "E 85 St & 3 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.978059142827988",
+    "latitude": "40.757245679117261",
+    "name": "E 48 St & 5 Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.00887308",
+    "latitude": "40.70717936",
+    "name": "William St & Pine St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-74.005549",
+    "latitude": "40.717571",
+    "name": "Leonard St & Church St",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.965920805931091",
+    "latitude": "40.767800801481322",
+    "name": "E 67 St & Park Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.9634",
+    "latitude": "40.8109494",
+    "name": "W 120 St & Claremont Ave",
+    "capacity": "39"
+  },
+  {
+    "longitude": "-73.94839",
+    "latitude": "40.72984",
+    "name": "Calyer St & Jewel St",
+    "capacity": "40"
+  },
+  {
+    "longitude": "-73.979820013046265",
+    "latitude": "40.76132983124814",
+    "name": "W 52 St & 6 Ave",
+    "capacity": "40"
+  },
+  {
+    "longitude": "-73.98338988",
+    "latitude": "40.75038009",
+    "name": "W 37 St & 5 Ave",
+    "capacity": "40"
+  },
+  {
+    "longitude": "-73.98490707",
+    "latitude": "40.74765947",
+    "name": "E 33 St & 5 Ave",
+    "capacity": "40"
+  },
+  {
+    "longitude": "-73.99565293",
+    "latitude": "40.72456089",
+    "name": "Lafayette St & Jersey St",
+    "capacity": "40"
+  },
+  {
+    "longitude": "-73.9590255",
+    "latitude": "40.8143256",
+    "name": "Broadway & Moylan Pl",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.96094022",
+    "latitude": "40.7612274",
+    "name": "1 Ave & E 62 St",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.985624313354492",
+    "latitude": "40.780577990103339",
+    "name": "Riverside Dr & W 72 St",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.976831",
+    "latitude": "40.727243",
+    "name": "E 12 St & Ave C",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.99098507",
+    "latitude": "40.7575699",
+    "name": "W 42 St & 8 Ave",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.997401893138885",
+    "latitude": "40.754691750226016",
+    "name": "W 35 St & Dyer Ave",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.958407938480377",
+    "latitude": "40.7687620293096",
+    "name": "2 Ave & E 72 St",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.98426726",
+    "latitude": "40.72953837",
+    "name": "E 11 St & 1 Ave",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.967641",
+    "latitude": "40.755293",
+    "name": "E 51 St & 2 Ave",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.98855723",
+    "latitude": "40.7462009",
+    "name": "Broadway & W 29 St",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.97648516",
+    "latitude": "40.75992262",
+    "name": "W 52 St & 5 Ave",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-74.013012",
+    "latitude": "40.7149787",
+    "name": "Murray St & West St",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.96703464",
+    "latitude": "40.7691572",
+    "name": "E 68 St & Madison Ave",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.96186",
+    "latitude": "40.795346",
+    "name": "Central Park West & W 102 St",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.95772297",
+    "latitude": "40.77112927",
+    "name": "E 75 St & 3 Ave",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-73.953559",
+    "latitude": "40.787801",
+    "name": "E 97 St & Madison Ave",
+    "capacity": "41"
+  },
+  {
+    "longitude": "-74.043117463588715",
+    "latitude": "40.71958611647166",
+    "name": "Grove St PATH",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-73.96119945",
+    "latitude": "40.76873687",
+    "name": "3 Ave & E 71 St",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-73.9916",
+    "latitude": "40.749156",
+    "name": "W 31 St & 7 Ave",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-73.98997825",
+    "latitude": "40.72019576",
+    "name": "Allen St & Rivington St",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-73.95284",
+    "latitude": "40.73555",
+    "name": "McGuinness Blvd & Eagle St",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-73.9489196240902",
+    "latitude": "40.782454175279874",
+    "name": "E 93 St & 2 Ave",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-73.94016171",
+    "latitude": "40.70767788",
+    "name": "Montrose Ave & Bushwick Ave",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-74.00293877",
+    "latitude": "40.73401143",
+    "name": "W 4 St & 7 Ave S",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-73.9576801",
+    "latitude": "40.6707767",
+    "name": "Eastern Pkwy & Franklin Ave",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-73.994903415441513",
+    "latitude": "40.73143724085228",
+    "name": "University Pl & E 8 St",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-73.940636",
+    "latitude": "40.7031724",
+    "name": "Humboldt St & Varet St",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-74.00926027",
+    "latitude": "40.7047177",
+    "name": "Pearl St & Hanover Square",
+    "capacity": "42"
+  },
+  {
+    "longitude": "-74.008702039718628",
+    "latitude": "40.657088666684849",
+    "name": "2 Ave & 36 St",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.97782542",
+    "latitude": "40.7734066",
+    "name": "Central Park West & W 68 St",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.989186957478523",
+    "latitude": "40.77515953434235",
+    "name": "W 64 St & Thelonious Monk Circle",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.964094221591949",
+    "latitude": "40.771182875406581",
+    "name": "E 72 St & Park Ave",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-74.00722156",
+    "latitude": "40.70862144",
+    "name": "John St & William St",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.99190759",
+    "latitude": "40.71605866",
+    "name": "Allen St & Hester St",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.960876",
+    "latitude": "40.710451",
+    "name": "S 5 Pl & S 5 St",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.9747",
+    "latitude": "40.78839",
+    "name": "W 87 St & Amsterdam Ave",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-74.0026376103",
+    "latitude": "40.7390169121",
+    "name": "Greenwich Ave & 8 Ave",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.989494740962982",
+    "latitude": "40.692418292578466",
+    "name": "Fulton St & Adams St",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.94989233",
+    "latitude": "40.7728384",
+    "name": "E 81 St & York Ave",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.99974372",
+    "latitude": "40.71602118",
+    "name": "Bayard St & Baxter St",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.9641",
+    "latitude": "40.8082",
+    "name": "W 116 St & Broadway",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.98859651",
+    "latitude": "40.75929124",
+    "name": "W 45 St & 8 Ave",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.94885390996933",
+    "latitude": "40.719155716960437",
+    "name": "Bayard St & Leonard St",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.9607082",
+    "latitude": "40.8067581",
+    "name": "W 116 St & Amsterdam Ave",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-73.957481",
+    "latitude": "40.7857851",
+    "name": "5 Ave & E 93 St",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-74.00234482",
+    "latitude": "40.71494807",
+    "name": "Centre St & Worth St",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-74.00653609",
+    "latitude": "40.70955958",
+    "name": "Fulton St & William St",
+    "capacity": "43"
+  },
+  {
+    "longitude": "-74.01043382",
+    "latitude": "40.70905623",
+    "name": "Liberty St & Broadway",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-73.95411749",
+    "latitude": "40.74232744",
+    "name": "Vernon Blvd & 50 Ave",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-73.98517977",
+    "latitude": "40.72066442",
+    "name": "Suffolk St & Stanton St",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-73.97973776",
+    "latitude": "40.73912601",
+    "name": "E 25 St & 2 Ave",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-73.98303529",
+    "latitude": "40.74444921",
+    "name": "E 30 St & Park Ave S",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-73.996621370315538",
+    "latitude": "40.727063633483063",
+    "name": "Mercer St & Bleecker St",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-73.99596",
+    "latitude": "40.718822",
+    "name": "Grand St & Elizabeth St",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-73.97604882",
+    "latitude": "40.7489006",
+    "name": "E 39 St & 3 Ave",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-73.95772073",
+    "latitude": "40.77862688",
+    "name": "E 84 St & Park Ave",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-74.002751",
+    "latitude": "40.708485",
+    "name": "Pearl St & Peck Slip",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-73.96295",
+    "latitude": "40.802692",
+    "name": "W 110 St & Amsterdam Ave",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-73.97137",
+    "latitude": "40.78275",
+    "name": "W 82 St & Central Park West",
+    "capacity": "45"
+  },
+  {
+    "longitude": "-73.973736",
+    "latitude": "40.697787",
+    "name": "Carlton Ave & Flushing Ave",
+    "capacity": "46"
+  },
+  {
+    "longitude": "-73.985836207866669",
+    "latitude": "40.723077490686727",
+    "name": "E 2 St & Avenue A",
+    "capacity": "46"
+  },
+  {
+    "longitude": "-73.98721619",
+    "latitude": "40.75299641",
+    "name": "Broadway & W 38 St",
+    "capacity": "46"
+  },
+  {
+    "longitude": "-73.982153534889221",
+    "latitude": "40.743115553764859",
+    "name": "Lexington Ave & E 29 St",
+    "capacity": "46"
+  },
+  {
+    "longitude": "-73.98014437",
+    "latitude": "40.75500254",
+    "name": "W 44 St & 5 Ave",
+    "capacity": "46"
+  },
+  {
+    "longitude": "-73.973984",
+    "latitude": "40.730563",
+    "name": "Avenue C & E 18 St",
+    "capacity": "46"
+  },
+  {
+    "longitude": "-73.98255",
+    "latitude": "40.758397",
+    "name": "W 47 St & 6 Ave",
+    "capacity": "46"
+  },
+  {
+    "longitude": "-73.972095251083374",
+    "latitude": "40.763025942805193",
+    "name": "E 58 St & Madison Ave",
+    "capacity": "46"
+  },
+  {
+    "longitude": "-73.9590097",
+    "latitude": "40.77677702",
+    "name": "E 81 St & Park Ave",
+    "capacity": "46"
+  },
+  {
+    "longitude": "-73.99529885",
+    "latitude": "40.74487634",
+    "name": "W 24 St & 7 Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-74.00451887",
+    "latitude": "40.74691959",
+    "name": "W 22 St & 10 Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.980679661035538",
+    "latitude": "40.729667293929779",
+    "name": "E 13 St & Avenue A",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.97966069",
+    "latitude": "40.74394314",
+    "name": "E 31 St & 3 Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.96223558",
+    "latitude": "40.69363137",
+    "name": "Emerson Pl & Myrtle Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.99456405",
+    "latitude": "40.73971301",
+    "name": "W 18 St & 6 Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.9421253",
+    "latitude": "40.8428422",
+    "name": "W 169 St & Fort Washington Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.971518",
+    "latitude": "40.766368",
+    "name": "5 Ave & E 63 St",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.97757",
+    "latitude": "40.789622",
+    "name": "W 87 St & West End Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.964273929595947",
+    "latitude": "40.776321421822708",
+    "name": "5 Ave & E 78 St",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.97032517",
+    "latitude": "40.75323098",
+    "name": "E 47 St & 2 Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.99238967",
+    "latitude": "40.73726186",
+    "name": "E 16 St & 5 Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-74.013942",
+    "latitude": "40.701907",
+    "name": "Bus Slip & State St",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.98564945",
+    "latitude": "40.72779126",
+    "name": "St Marks Pl & 1 Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.98713956",
+    "latitude": "40.7284186",
+    "name": "St Marks Pl & 2 Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.97041561",
+    "latitude": "40.7882213",
+    "name": "W 89 St & Columbus Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.966494798660278",
+    "latitude": "40.799041392882984",
+    "name": "W 104 St & Amsterdam Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.94803392",
+    "latitude": "40.77536905",
+    "name": "E 85 St & York Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.9567526",
+    "latitude": "40.77573034",
+    "name": "E 81 St & 3 Ave",
+    "capacity": "47"
+  },
+  {
+    "longitude": "-73.992085",
+    "latitude": "40.734814",
+    "name": "University Pl & E 14 St",
+    "capacity": "49"
+  },
+  {
+    "longitude": "-73.97634151",
+    "latitude": "40.76590936",
+    "name": "Central Park S & 6 Ave",
+    "capacity": "49"
+  },
+  {
+    "longitude": "-74.007756",
+    "latitude": "40.746745",
+    "name": "W 20 St & 11 Ave",
+    "capacity": "49"
+  },
+  {
+    "longitude": "-73.962868452072144",
+    "latitude": "40.794066608185517",
+    "name": "Central Park West & W 100 St",
+    "capacity": "49"
+  },
+  {
+    "longitude": "-74.01713445",
+    "latitude": "40.70834698",
+    "name": "West Thames St",
+    "capacity": "49"
+  },
+  {
+    "longitude": "-74.00176802",
+    "latitude": "40.75066386",
+    "name": "10 Ave & W 28 St",
+    "capacity": "49"
+  },
+  {
+    "longitude": "-73.996732",
+    "latitude": "40.714193",
+    "name": "Division St & Bowery",
+    "capacity": "49"
+  },
+  {
+    "longitude": "-73.9919254",
+    "latitude": "40.72110063",
+    "name": "Rivington St & Chrystie St",
+    "capacity": "50"
+  },
+  {
+    "longitude": "-73.962658",
+    "latitude": "40.759125",
+    "name": "E 58 St &  1 Ave (NW Corner)",
+    "capacity": "50"
+  },
+  {
+    "longitude": "-73.99415556",
+    "latitude": "40.74173969",
+    "name": "W 21 St & 6 Ave",
+    "capacity": "50"
+  },
+  {
+    "longitude": "-73.9550858",
+    "latitude": "40.73232194",
+    "name": "India St & Manhattan Ave",
+    "capacity": "50"
+  },
+  {
+    "longitude": "-74.00711384",
+    "latitude": "40.73291553",
+    "name": "Christopher St & Greenwich St",
+    "capacity": "50"
+  },
+  {
+    "longitude": "-74.00149746",
+    "latitude": "40.74177603",
+    "name": "W 17 St & 8 Ave",
+    "capacity": "50"
+  },
+  {
+    "longitude": "-74.008119",
+    "latitude": "40.739323",
+    "name": "Washington St & Gansevoort St",
+    "capacity": "51"
+  },
+  {
+    "longitude": "-73.981013",
+    "latitude": "40.689888",
+    "name": "DeKalb Ave & Hudson Ave",
+    "capacity": "51"
+  },
+  {
+    "longitude": "-73.9762057363987",
+    "latitude": "40.775793766836657",
+    "name": "Central Park West & W 72 St",
+    "capacity": "51"
+  },
+  {
+    "longitude": "-73.947526216506958",
+    "latitude": "40.724812564400175",
+    "name": "Nassau Ave & Newell St",
+    "capacity": "51"
+  },
+  {
+    "longitude": "-73.993915",
+    "latitude": "40.746647",
+    "name": "W 27 St & 7 Ave",
+    "capacity": "51"
+  },
+  {
+    "longitude": "-73.97207836",
+    "latitude": "40.75714758",
+    "name": "E 51 St & Lexington Ave",
+    "capacity": "51"
+  },
+  {
+    "longitude": "-73.94434",
+    "latitude": "40.72557",
+    "name": "Nassau Ave & Russell St",
+    "capacity": "51"
+  },
+  {
+    "longitude": "-73.986389",
+    "latitude": "40.725864",
+    "name": "1 Ave & E 5 St",
+    "capacity": "51"
+  },
+  {
+    "longitude": "-73.996429592370987",
+    "latitude": "40.738046142482766",
+    "name": "W 15 St & 6 Ave",
+    "capacity": "51"
+  },
+  {
+    "longitude": "-73.99138152",
+    "latitude": "40.75466591",
+    "name": "W 38 St & 8 Ave",
+    "capacity": "51"
+  },
+  {
+    "longitude": "-73.96526895",
+    "latitude": "40.76312584",
+    "name": "3 Ave & E 62 St",
+    "capacity": "51"
+  },
+  {
+    "longitude": "-74.00277668",
+    "latitude": "40.76087502",
+    "name": "12 Ave & W 40 St",
+    "capacity": "52"
+  },
+  {
+    "longitude": "-73.98336183",
+    "latitude": "40.76228826",
+    "name": "Broadway & W 51 St",
+    "capacity": "52"
+  },
+  {
+    "longitude": "-73.98602213",
+    "latitude": "40.74096374",
+    "name": "E 24 St & Park Ave S",
+    "capacity": "52"
+  },
+  {
+    "longitude": "-73.98848395",
+    "latitude": "40.74901271",
+    "name": "6 Ave & W 33 St",
+    "capacity": "52"
+  },
+  {
+    "longitude": "-73.96759673",
+    "latitude": "40.75934501",
+    "name": "E 56 St & 3 Ave",
+    "capacity": "53"
+  },
+  {
+    "longitude": "-73.978434",
+    "latitude": "40.763189",
+    "name": "W 55 St & 6 Ave",
+    "capacity": "53"
+  },
+  {
+    "longitude": "-73.98165557",
+    "latitude": "40.73221853",
+    "name": "1 Ave & E 16 St",
+    "capacity": "53"
+  },
+  {
+    "longitude": "-73.99074142",
+    "latitude": "40.73454567",
+    "name": "Broadway & E 14 St",
+    "capacity": "53"
+  },
+  {
+    "longitude": "-73.980544209480286",
+    "latitude": "40.733812191966315",
+    "name": "1 Ave & E 18 St",
+    "capacity": "54"
+  },
+  {
+    "longitude": "-73.98918628692627",
+    "latitude": "40.742868773121117",
+    "name": "Broadway & W 25 St",
+    "capacity": "54"
+  },
+  {
+    "longitude": "-73.98185424",
+    "latitude": "40.72453734",
+    "name": "E 6 St & Avenue B",
+    "capacity": "54"
+  },
+  {
+    "longitude": "-73.961650729179382",
+    "latitude": "40.720367752984551",
+    "name": "Kent Ave & N 7 St",
+    "capacity": "54"
+  },
+  {
+    "longitude": "-73.99392888",
+    "latitude": "40.76727216",
+    "name": "W 52 St & 11 Ave",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-74.0021163",
+    "latitude": "40.75594159",
+    "name": "W 34 St & 11 Ave",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-73.980930447578416",
+    "latitude": "40.779668090073123",
+    "name": "Amsterdam Ave & W 73 St",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-73.98194829",
+    "latitude": "40.7457121",
+    "name": "E 32 St & Park Ave",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-73.983293",
+    "latitude": "40.741459",
+    "name": "Lexington Ave & E 26 St",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-74.00483091",
+    "latitude": "40.73535398",
+    "name": "Perry St & Bleecker St",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-73.9535166",
+    "latitude": "40.77140426",
+    "name": "1 Ave & E 78 St",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-73.980251848697662",
+    "latitude": "40.754120810779256",
+    "name": "E 43 St & 5 Ave",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-73.971878855",
+    "latitude": "40.7546011026",
+    "name": "E 48 St & 3 Ave",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-73.991026282310486",
+    "latitude": "40.730206605299543",
+    "name": "Lafayette St & E 8 St",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-73.98085795",
+    "latitude": "40.7208736",
+    "name": "E 2 St & Avenue C",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-73.982079",
+    "latitude": "40.752269",
+    "name": "W 40 St & 5 Ave",
+    "capacity": "55"
+  },
+  {
+    "longitude": "-73.974497839808464",
+    "latitude": "40.74322681432173",
+    "name": "E 33 St & 1 Ave",
+    "capacity": "59"
+  },
+  {
+    "longitude": "-73.96905301",
+    "latitude": "40.75001986",
+    "name": "1 Ave & E 44 St",
+    "capacity": "59"
+  },
+  {
+    "longitude": "-73.99510132",
+    "latitude": "40.73331967",
+    "name": "E 10 St & 5 Ave",
+    "capacity": "59"
+  },
+  {
+    "longitude": "-73.990752696990967",
+    "latitude": "40.729514962249489",
+    "name": "Cooper Square & Astor Pl",
+    "capacity": "59"
+  },
+  {
+    "longitude": "-73.964839",
+    "latitude": "40.79127",
+    "name": "Central Park W & W 96 St",
+    "capacity": "59"
+  },
+  {
+    "longitude": "-73.99800419",
+    "latitude": "40.73532427",
+    "name": "W 11 St & 6 Ave",
+    "capacity": "59"
+  },
+  {
+    "longitude": "-73.977285325527191",
+    "latitude": "40.7801839724239",
+    "name": "W 76 St & Columbus Ave",
+    "capacity": "59"
+  },
+  {
+    "longitude": "-73.9605909006",
+    "latitude": "40.7981856",
+    "name": "W 106 St & Central Park West",
+    "capacity": "59"
+  },
+  {
+    "longitude": "-73.99915362",
+    "latitude": "40.74475148",
+    "name": "W 22 St & 8 Ave",
+    "capacity": "66"
+  },
+  {
+    "longitude": "-73.97371465",
+    "latitude": "40.7643971",
+    "name": "Grand Army Plaza & Central Park S",
+    "capacity": "66"
+  },
+  {
+    "longitude": "-73.993934",
+    "latitude": "40.751551",
+    "name": "8 Ave & W 33 St",
+    "capacity": "66"
+  },
+  {
+    "longitude": "-73.99009296",
+    "latitude": "40.73704984",
+    "name": "E 17 St & Broadway",
+    "capacity": "66"
+  },
+  {
+    "longitude": "-73.99723551",
+    "latitude": "40.74734825",
+    "name": "W 26 St & 8 Ave",
+    "capacity": "66"
+  },
+  {
+    "longitude": "-73.97898475",
+    "latitude": "40.7770575",
+    "name": "Columbus Ave & W 72 St",
+    "capacity": "67"
+  },
+  {
+    "longitude": "-73.98788205",
+    "latitude": "40.76227205",
+    "name": "W 49 St & 8 Ave",
+    "capacity": "67"
+  },
+  {
+    "longitude": "-73.98805",
+    "latitude": "40.74964",
+    "name": "6 Ave & W 34 St",
+    "capacity": "67"
+  },
+  {
+    "longitude": "-73.99949601",
+    "latitude": "40.72362738",
+    "name": "Mercer St & Spring St",
+    "capacity": "67"
+  }
+]
