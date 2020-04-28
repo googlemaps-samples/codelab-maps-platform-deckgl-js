@@ -17,15 +17,14 @@
 import { GoogleMapsOverlay } from '@deck.gl/google-maps';
 import { ScatterplotLayer } from '@deck.gl/layers';
 
-const googleMapsAPIKey = 'YOUR API KEY HERE';
+const googleMapsAPIKey = 'YOUR API KEY';
 
 loadJSAPI();
 function runApp() {
-  initMap();
+  const map = initMap();
   const layerOptions = {
     id: 'scatter-plot',
-    data: [{ position: [nyc.lng, nyc.lat, 0] }],
-    data: '../stations.json',
+    data: './stations.json',
     getFillColor: [255, 133, 27],
     getPosition: d => [parseFloat(d.longitude), parseFloat(d.latitude)],
     getRadius: d => parseInt(d.capacity)
