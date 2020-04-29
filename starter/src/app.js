@@ -14,9 +14,6 @@
  * limitations under the License.
  */
 
-import { GoogleMapsOverlay } from '@deck.gl/google-maps';
-import { ScatterplotLayer } from '@deck.gl/layers';
-
 const googleMapsAPIKey = 'YOUR API KEY';
 loadJSAPI();
 function runApp() {
