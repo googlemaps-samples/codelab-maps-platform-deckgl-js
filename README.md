@@ -17,7 +17,7 @@ This will install the needed dependencies and run the app locally in your browse
 ## Support
 If you find a bug, please [file an issue]. Or, if you'd like to contribute, send us a [pull request] and refer to our [code of conduct].
 
-[codelab]: https://codelabs.developers.google.com/codelabs/maps-platform-deck.gl/index.html
-[file an issue]: https://github.com/googlecodelabs/maps-platform-deck.gl/issues
-[pull request]:  https://github.com/googlecodelabs/maps-platform-deck.gl/compare
+[codelab]: https://codelabs.developers.google.com/codelabs/maps-platform-deckgl/index.html
+[file an issue]: https://github.com/googlecodelabs/maps-platform-deckgl/issues
+[pull request]:  https://github.com/googlecodelabs/maps-platform-deckgl/compare
 [code of conduct]: CODE_OF_CONDUCT.md
