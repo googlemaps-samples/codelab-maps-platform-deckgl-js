@@ -15,8 +15,12 @@
  */
 
 const googleMapsAPIKey = 'YOUR API KEY';
-loadJSAPI();
+loadJSAPI(); // loads the Maps JS API - see helper function below
+
+// initialize the map and executes your code
+// once the API has loaded
 function runApp() {
+  initMap();
   // Your code goes here
 }
 

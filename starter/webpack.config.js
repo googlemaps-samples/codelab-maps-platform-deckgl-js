@@ -21,10 +21,10 @@ const CONFIG = {
   mode: 'development',
 
   entry: {
-    app: './app.js'
+    app: './src/app.js'
   },
   devServer: {
-    index: 'index.html'
+    contentBase: path.join(__dirname, 'src')
   },
   plugins: [
     // Read google maps token from environment variable
