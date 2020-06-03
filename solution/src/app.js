@@ -23,11 +23,15 @@ loadJSAPI();
 function runApp() {
   const map = initMap();
   const layerOptions = {
-    id: 'scatter-plot',
+    id: 'scatterplot',
     data: './stations.json',
-    getFillColor: [255, 133, 27],
     getPosition: d => [parseFloat(d.longitude), parseFloat(d.latitude)],
-    getRadius: d => parseInt(d.capacity)
+    getRadius: d => parseInt(d.capacity),
+    stroked: true,
+    getFillColor: [255, 133, 27],
+    getLineColor: [255, 38, 27],
+    radiusMinPixels: 5,
+    radiusMaxPixels: 50
   };
   const scatterplotLayer = new ScatterplotLayer(layerOptions);
   const googleMapsOverlay = new GoogleMapsOverlay({
