@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "license": "Apache-2.0",
   "scripts": {
-    "start": "webpack-dev-server --progress --hot --open"
+    "start": "webpack serve --progress --hot --open"
   },
   "dependencies": {
-    "@deck.gl/core": "7.0.0",
-    "@deck.gl/google-maps": "^7.0.0",
-    "@deck.gl/layers": "^7.0.0",
-    "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.1"
+    "@deck.gl/core": "^8.7.0",
+    "@deck.gl/google-maps": "^8.7.0",
+    "@deck.gl/layers": "^8.7.0",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
   }
 }

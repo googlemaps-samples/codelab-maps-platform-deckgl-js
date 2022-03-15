@@ -24,12 +24,8 @@ const CONFIG = {
     app: './src/app.js'
   },
   devServer: {
-    contentBase: path.join(__dirname, 'src')
-  },
-  plugins: [
-    // Read google maps token from environment variable
-    new webpack.EnvironmentPlugin(['GoogleMapsAPIKey'])
-  ]
+    static: path.join(__dirname, 'src')
+  }
 };
 
 module.exports = CONFIG;

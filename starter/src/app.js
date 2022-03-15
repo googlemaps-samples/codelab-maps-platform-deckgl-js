@@ -15,6 +15,7 @@
  */
 
 const googleMapsAPIKey = 'YOUR API KEY';
+
 loadJSAPI(); // loads the Maps JS API - see helper function below
 
 // initialize the map and executes your code
@@ -40,8 +41,7 @@ function loadJSAPI() {
 function initMap() {
   const mapOptions = {
     center: { lat: 40.75097, lng: -73.98765 },
-    zoom: 14,
-    styles: mapStyle
+    zoom: 14
   };
   const mapDiv = document.getElementById('map');
   return new google.maps.Map(mapDiv, mapOptions);
